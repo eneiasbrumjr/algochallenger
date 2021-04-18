@@ -1,0 +1,115 @@
+  1 version: '3.7'
+  2 services:
+  3     backend:
+  4         container_name: backend
+  5         privileged: true
+  6         image: jvfazolo/algochallenger-backend
+  7 #        build: 
+  8 #            context: ./backend
+  9 #            dockerfile: ./docker/Dockerfile
+ 10         volumes:
+ 11             - /tmp/boca-volume:/var/www/app/storage
+ 12         depends_on:
+ 13             - db
+ 14         deploy:
+ 15 #           mode: global
+ 16 #           placement:
+ 17 #             constraints: [node.role == manager]
+ 18            replicas: 1
+ 19            update_config:
+ 20              parallelism: 2
+ 21 #           restart_policy:
+ 22 #             condition: on-failure
+ 23            resources:
+ 24              limits:
+ 25                cpus: '1'
+ 26                memory: 512M
+ 27         ports:
+ 28             - 8001:80
+       environment:
+ 30             - DB_CONNECTION=pgsql
+ 31             - APP_DEBUG=true
+ 32             - APP_URL=http://localhost
+ 33             - DB_PORT=5432
+ 34             - DB_DATABASE=boca
+ 35             - APP_NAME=Boca
+ 36             - LOG_CHANNEL=daily
+ 37             - DB_USERNAME=boca
+ 38             - APP_ENV=local
+ 39             - DB_PASSWORD=boca
+ 40             - DB_HOST=db
+ 41             - JWT_SECRET=UiUT2Dd8EwuiHpEFKsf93k945OTipS8uZb0gIl7PnwiVUIZv37yf5puWF0S5qHQx
+ 42             - APP_KEY=iUT2Dd8EwuiHpEFKs
+ 43 
+ 44 
+ 45     frontend:
+ 46         container_name: frontend
+ 47         privileged: true
+ 48         image: jvfazolo/algochallenger-frontend
+ 49  #       build: 
+ 50  #           context: ./frontend
+ 51  #           dockerfile: ./docker/Dockerfile
+ 52         deploy:
+ 53 #           mode: global
+ 54 #           replicas: 1
+ 55 #           placement:
+ 56 #              constraints: [node.role == manager]
+ 57            resources:
+ 58               limits:
+ 59                  cpus: '1'
+ 60                  memory: 1024M
+     environment:
+ 62             - VUE_APP_BACKEND_URL=http://localhost:8001/api
+ 63         ports:
+ 64             - 8181:80
+ 65         depends_on:
+ 66             - backend
+ 67 
+ 68     db:
+ 69         image: postgres:12
+ 70         privileged: true
+ 71         container_name: boca-postgres
+ 72         environment:
+ 73             - POSTGRES_PASSWORD=boca
+ 74             - POSTGRES_USER=boca
+ 75        # healthcheck:
+ 76        #     test: ["CMD-SHELL", "pg_isready -U postgres"]
+ 77        #     interval: 10s
+ 78        #     timeout: 5s
+ 79        #     retries: 5
+ 80         deploy:
+ 81 #           mode: global
+ 82 #           placement:
+ 83 #             constraints: [node.role == worker]
+ 84            resources:
+ 85              limits:
+ 86                cpus: '1'
+ 87                memory: 1024M
+ 88 
+ 89     boca-jail:
+ 90         image: jvfazolo/boca-jail
+ 91         privileged: false
+ 92         container_name: boca-jail
+ 93         deploy:
+#           mode: global
+ 95            placement:
+ 96               constraints: [node.role == worker]
+ 97            replicas: 1
+ 98            update_config:
+ 99                parallelism: 1
+100                delay: 10s
+101        #    restart_policy:
+102        #        condition: on-failure
+103            resources:
+104              limits:
+105                cpus: '1'
+106                memory: 512M
+107         environment:
+108             - API_URL=http://backend/api
+109             - DB_HOST=db
+110             - DB_PORT=5432
+111             - DB_NAME=boca
+112             - DB_USER=boca
+113             - DB_PASSWORD=boca
+114             - ADMIN_USER=admin
+115             - ADMIN_PASSWORD=algochallenger

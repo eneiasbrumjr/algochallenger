@@ -1,0 +1,37 @@
+Numero total de amostras 100
+
+Tempo total de processamento: 0:03:50
+
+############## TEMPOS DE PROCESSAMENTO DO EXERCICIO NO JAIL  ####################
+Soma 790 segundos
+Media 7.9 segundos
+Desvio padrão 2.673948391424187 segundos
+
+95% 11.0 segundos
+99% 12.010000000000005 segundos
+
+############## TEMPOS DE PROCESSAMENTO DO EXERCICIO NO JAIL COM DOWNLOAD  ################
+Soma 885 segundos
+Media 8.85 segundos
+Desvio padrão 2.790609252475165 segundos
+
+95% 12.0 segundos
+99% 13.030000000000015 segundos
+
+
+################### TEMPOS DE DOWNLOAD DO EXERCICIO NO JAIL #######################
+Soma 95 segundos
+Media 0.95 segundos
+Desvio padrão 0.5722761571129799 segundos
+
+95% 2.0 segundos
+99% 2.010000000000005 segundos
+
+############################ TEMPOS DE ESPERA NA FILA ############################
+Soma 2301
+Media 23.01 segundos
+Desvio padrão 11.493907081580222 segundos
+
+95% 42.0 segundos
+99% 43.02000000000001 segundos
+

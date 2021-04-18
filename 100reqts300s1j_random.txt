@@ -1,0 +1,12 @@
+Numero total de amostras93
+
+Tempo total de processamento: 0:12:42
+
+
+Soma 691000
+Media 7430.10752688172
+Desvio padrão 2641.268225285031
+
+95% 11000.0
+99% 12000.0
+

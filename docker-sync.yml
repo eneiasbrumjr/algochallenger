@@ -1,0 +1,39 @@
+version: "2"
+options:
+  # default: docker-compose.yml if you like, you can set a custom location (path) of your compose file like ~/app/compose.yml
+  # HINT: you can also use this as an array to define several compose files to include. Order is important!
+  compose-file-path: 'docker-compose.yml'
+
+  # optional, default: docker-compose-dev.yml if you like, you can set a custom location (path) of your compose file. Do not set it, if you do not want to use it at all
+
+  # if its there, it gets used, if you name it explicitly, it HAS to exist
+  # HINT: you can also use this as an array to define several compose files to include. Order is important!
+#   compose-dev-file-path: 'docker-compose-dev.yml'
+
+
+syncs:
+    backend-sync:
+        # os aware sync strategy, defaults to native_osx under MacOS (except with docker-machine which use unison), and native docker volume under linux
+        # remove this option to use the default strategy per os or set a specific one
+        sync_strategy: 'native_osx'
+        # which folder to watch / sync from - you can use tilde, it will get expanded.
+        # the contents of this directory will be synchronized to the Docker volume with the name of this sync entry ('shortexample-sync' here)
+        src: './backend/'
+
+        host_disk_mount_mode: 'cached' # see https://docs.docker.com/docker-for-mac/osxfs-caching/#cached
+        # other unison options can also be specified here, which will be used when run under osx,
+    # and ignored when run under linux
+
+    frontend-sync:
+        # os aware sync strategy, defaults to native_osx under MacOS (except with docker-machine which use unison), and native docker volume under linux
+        # remove this option to use the default strategy per os or set a specific one
+        sync_strategy: 'native_osx'
+        # which folder to watch / sync from - you can use tilde, it will get expanded.
+        # the contents of this directory will be synchronized to the Docker volume with the name of this sync entry ('shortexample-sync' here)
+        src: './frontend/'
+
+        host_disk_mount_mode: 'cached' # see https://docs.docker.com/docker-for-mac/osxfs-caching/#cached
+        # other unison options can also be specified here, which will be used when run under osx,
+        # and ignored when run under linux
+
+  # IMPORTANT: thi

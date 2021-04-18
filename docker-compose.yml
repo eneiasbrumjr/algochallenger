@@ -1,0 +1,53 @@
+version: '3.7'
+services: 
+    backend:
+        container_name: backend
+        image: jvfazolo/algochallenger-backend
+       # build: 
+       #     context: ./backend
+       #     dockerfile: ./docker/Dockerfile
+        depends_on: 
+            - db
+        ports: 
+            - 8001:80
+        environment: 
+            - DB_CONNECTION=pgsql
+            - APP_DEBUG=true
+            - APP_URL=http://localhost
+            - DB_PORT=5432
+            - DB_DATABASE=boca
+            - APP_NAME=Boca
+            - LOG_CHANNEL=daily
+            - DB_USERNAME=boca
+            - APP_ENV=local
+            - DB_PASSWORD=boca
+            - DB_HOST=db
+            
+    frontend:
+        container_name: frontend
+        image: jvfazolo/algochallenger-frontend
+       # build: 
+       #     context: ./frontend
+       #     dockerfile: ./docker/Dockerfile
+        environment: 
+            - VUE_APP_BACKEND_URL=http://localhost:8001/api
+        ports: 
+            - 8181:80
+        depends_on: 
+            - backend
+    db:
+        image: postgres:12
+        environment: 
+            - POSTGRES_PASSWORD=boca
+            - POSTGRES_USER=boca
+    boca-jail:
+        image: jvfazolo/boca-jail
+        environment: 
+            - API_URL=http://backend/api
+            - DB_HOST=db
+            - DB_PORT=5432
+            - DB_NAME=boca
+            - DB_USER=boca
+            - DB_PASSWORD=boca
+            - ADMIN_USER=admin
+            - ADMIN_PASSWORD=123456

@@ -1,0 +1,156 @@
+Numero total de amostras1000
+
+Tempo total de processamento: 0:14:52
+
+
+Soma 366000
+Media 366.0
+Desvio padrão 481.70945600019104
+
+95% 1000.0
+99% 1000.0
+
+Numero total de amostras1000
+
+Tempo total de processamento: 0:14:18
+
+
+Soma 402000
+Media 402.0
+Desvio padrão 492.33728276456986
+
+95% 1000.0
+99% 1000.0
+
+Numero total de amostras37
+
+Tempo total de processamento: 0:05:03
+
+
+Soma 276000
+Media 7459.459459459459
+Desvio padrão 1980.9169947901291
+
+95% 11000.0
+99% 11000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:12:03
+
+
+Soma 672000
+Media 6720.0
+Desvio padrão 3137.1324485905916
+
+95% 11000.0
+99% 12000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:12:03
+
+
+Soma 672000
+Media 6720.0
+Desvio padrão 3137.1324485905916
+
+95% 11000.0
+99% 12000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:12:03
+
+
+Soma 672000
+Media 6720.0
+Desvio padrão 3137.1324485905916
+
+95% 11000.0
+99% 12000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:12:03
+
+
+Soma 672000
+Media 6720.0
+Desvio padrão 3137.1324485905916
+
+95% 11000.0
+99% 12000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:12:03
+
+
+Soma 672000
+Media 6720.0
+Desvio padrão 3137.1324485905916
+
+95% 11000.0
+99% 12000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:12:15
+
+
+Soma 684000
+Media 6840.0
+Desvio padrão 2945.233437267749
+
+95% 11000.0
+99% 13000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:04:39
+
+
+Soma 721000
+Media 7210.0
+Desvio padrão 2409.5435252346033
+
+95% 11000.0
+99% 13000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:03:28
+
+
+Soma 719000
+Media 7190.0
+Desvio padrão 2791.7557199726484
+
+95% 12000.0
+99% 12010.000000000005
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:02:38
+
+
+Soma 818000
+Media 8180.0
+Desvio padrão 2372.2563099294307
+
+95% 11049.999999999996
+99% 13000.0
+
+Numero total de amostras100
+
+Tempo total de processamento: 0:02:54
+
+
+Soma 676000
+Media 6760.0
+Desvio padrão 2800.428538634757
+
+95% 11000.0
+99% 12010.000000000005
+

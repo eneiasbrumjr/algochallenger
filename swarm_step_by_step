@@ -1,0 +1,19 @@
+docker swarm init --advertise-addr 192.168.0.xxi
+
+cd /tmp
+mkdir boca-volume
+cd boca-volume
+mkdir {app,cache,framework}
+cd framework
+mkdir {cache,views,sessions}
+chmod 777 -R boca-volume/
+cd ~/
+mkdir boca-new
+vim docker-compose-swarm.yml
+docker stack deploy -c docker-compose-swarm.yml boca-new
+
+
+
+
+
+

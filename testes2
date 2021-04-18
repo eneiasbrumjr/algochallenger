@@ -1,0 +1,13 @@
+
+
+
+*Grafico de distribuição eixo X o tempo que foi gasto para finalizar o run, eixo Y a quantidade de runs que tiveram aquele tempo
+---->densidade
+
+*Fixar numero de testes para contornar eventuais "problemas" -> instabilidades
+*organizar amostras por ordem de chegada -> fazer média entre alguns testes, solificar testes
+*Dividir em mais blocos de distribuição no histograma
+*Buscar ponto de degradação que seja a definição do numero de rqts/s -> explicação/referencia/evidencias objetivas (modelo de navegação web, (submissões de algo))
+*Trabalhos futuros -> estudos também para diferentes exercícios (processamentos diferentes)
+
+

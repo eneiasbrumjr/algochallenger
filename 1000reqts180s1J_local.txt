@@ -1,0 +1,25 @@
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;30r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[30;1H"timecalc.py" 78L, 2867C[1;1H[34m# encoding=utf8[m
+
+[35mimport[m dateparser
+[35mimport[m requests
+[35mimport[m numpy [38;5;130mas[m np
+[35mimport[m matplotlib.pyplot [38;5;130mas[m plt
+TOKEN = [31m"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMVwvYXBpXC9sb2dpbiIsImlhdCI6MTYwNTg4Njk4NCwiZXhwIjoxNjA1OTQ2OTg0LCJuYmYiOjE2MDU4ODY5ODQsImp0aSI6ImNqUkMxTk1BdGhmZXpuMVV[8;1HoiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.bB-un36MYbyxLCOxjhU6JoyXVPeEjiK0NM3fmqXRXVU"[m
+
+
+response = requests.get([12;9H[31m"http://127.0.0.1:8001/api/problem/1/run"[m,[13;9Hheaders={[31m"Authorization"[m: [31m"Bearer "[m+TOKEN}
+)
+response.raise_for_status()
+
+diffs_in_milliseconds = []
+[38;5;130mfor[m r [38;5;130min[m response.json():[19;9H[34m#a = dateparser.parse(r["created_at"]) #colocado no banco -> tempo de chegada do run no banco[20;9H#b = dateparser.parse(r["updated_at"]) #tempo da ultima atualização de qualquer lugar ->não vai ser usado nos calculos[21;9H# d = dataparser.parse(r[""]) # jail started_at -> inicio do processamento no jail (com download do banco)[m[25;9Hd = dateparser.parse(r[[31m"jail_started_at"[m]) [34m# if r["jail_started_at"] is not 'null' else r["jail_started_at"].pop() # jail started_at -> inicio do processamento no jail (com download do banco)
+#        d = dateparser.parse(r["jail_work_started_at"]) # jail started_at -> inicio do processamento no jail (com download do banco)[27;9H# e = #jail finished_at -> tempo final do processamento no jail onde ele terminou de trabalhar[m[28;9He = dateparser.parse(r[[31m"jail_finished_at"[m]) [34m#tempo da ultima atualização de qualquer lugar ->não vai ser usado nos calculos[29;9H# f = true started_at ----> sem download [m[30;187H1,1[11CTop[1;1H[?25h[?25l[30;1HType  :qa!  and press <Enter> to abandon all changes and exit Vim[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[?25l[30;187H[K[30;187H1,1[11CTop[1;1H[?25h[27m[23m[29m[m[H[2J[?25l[1;1H[34m# encoding=utf8[m
+
+[35mimport[m dateparser
+[35mimport[m requests
+[35mimport[m numpy [38;5;130mas[m np
+[35mimport[m matplotlib.pyplot [38;5;130mas[m plt
+TOKEN = [31m"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMVwvYXBpXC9sb2dpbiIsImlhdCI6MTYwNTg4Njk4NCwiZXhwIjoxNjA1OTQ2OTg0LCJuYmYiOjE2MDU4ODY5ODQsImp0aSI6ImNqUkMxTk1BdGhmZXpuMVV[8;1HoiLCJzdWIiOjEsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEifQ.bB-un36MYbyxLCOxjhU6JoyXVPeEjiK0NM3fmqXRXVU"[m
+
+
+response = requests.get([12;9H[31m"http://127.0.0.1:8001/api/problem/1/run"[m,[13;9Hheaders={[31m"Authorization"[m: [31m"Bearer "[m+TOKEN}[14;187H1,1[11CTop[1;1H[?25h

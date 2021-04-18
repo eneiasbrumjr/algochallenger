@@ -1,0 +1,736 @@
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.14%               16.62MiB / 1.941GiB   0.84%               222kB / 203kB       242kB / 51.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               31.74MiB / 1.941GiB   1.60%               228kB / 61.4kB      26.3MB / 422kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               16.62MiB / 1.941GiB   0.84%               222kB / 203kB       242kB / 51.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               31.74MiB / 1.941GiB   1.60%               228kB / 61.4kB      26.3MB / 422kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               16.62MiB / 1.941GiB   0.84%               225kB / 205kB       242kB / 51.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               31.74MiB / 1.941GiB   1.60%               228kB / 61.4kB      26.3MB / 422kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               16.74MiB / 1.941GiB   0.84%               226kB / 206kB       242kB / 51.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               31.74MiB / 1.941GiB   1.60%               228kB / 61.4kB      26.3MB / 422kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               16.74MiB / 1.941GiB   0.84%               226kB / 207kB       242kB / 51.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               31.74MiB / 1.941GiB   1.60%               228kB / 61.4kB      26.3MB / 422kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.16%               16.56MiB / 1.941GiB   0.83%               233kB / 213kB       242kB / 51.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               31.74MiB / 1.941GiB   1.60%               228kB / 61.4kB      26.3MB / 422kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.11%               16.71MiB / 1.941GiB   0.84%               258kB / 242kB       242kB / 51.9MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            12.94%              40.55MiB / 1.941GiB   2.04%               262kB / 259kB       28.8MB / 430kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               16.64MiB / 1.941GiB   0.84%               262kB / 247kB       242kB / 51.9MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            64.99%              42.67MiB / 1.941GiB   2.15%               294kB / 285kB       28.8MB / 442kB      6
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.37%               16.91MiB / 1.941GiB   0.85%               331kB / 332kB       242kB / 52MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               60.03MiB / 1.941GiB   3.02%               363kB / 849kB       28.8MB / 446kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               16.65MiB / 1.941GiB   0.84%               336kB / 336kB       242kB / 52MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            48.87%              60.41MiB / 1.941GiB   3.04%               394kB / 874kB       28.8MB / 459kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.12%               16.93MiB / 1.941GiB   0.85%               380kB / 390kB       242kB / 52.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.47%              59.51MiB / 1.941GiB   2.99%               430kB / 904kB       28.8MB / 467kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 3.54%               16.98MiB / 1.941GiB   0.85%               406kB / 421kB       242kB / 52.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.81%              59.52MiB / 1.941GiB   2.99%               465kB / 934kB       28.8MB / 475kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.03%               17.14MiB / 1.941GiB   0.86%               441kB / 462kB       242kB / 52.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.03%               58.43MiB / 1.941GiB   2.94%               494kB / 958kB       28.8MB / 479kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 5.46%               17.47MiB / 1.941GiB   0.88%               482kB / 508kB       242kB / 52.5MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.02%               58.86MiB / 1.941GiB   2.96%               518kB / 978kB       28.8MB / 487kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 2.52%               17.28MiB / 1.941GiB   0.87%               507kB / 538kB       242kB / 52.5MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            37.32%              60.02MiB / 1.941GiB   3.02%               575kB / 1.03MB      28.8MB / 500kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.39%               17.41MiB / 1.941GiB   0.88%               520kB / 554kB       242kB / 52.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            84.94%              58.45MiB / 1.941GiB   2.94%               618kB / 1.06MB      28.8MB / 508kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.02%               17.26MiB / 1.941GiB   0.87%               573kB / 618kB       242kB / 52.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.12%              58.53MiB / 1.941GiB   2.94%               654kB / 1.09MB      28.8MB / 516kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 4.02%               18.61MiB / 1.941GiB   0.94%               596kB / 645kB       242kB / 52.8MB      12
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            15.35%              58.48MiB / 1.941GiB   2.94%               689kB / 1.12MB      28.8MB / 524kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.08%               17.4MiB / 1.941GiB    0.88%               622kB / 676kB       242kB / 52.9MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               59.64MiB / 1.941GiB   3.00%               707kB / 1.14MB      28.8MB / 528kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 4.08%               17.27MiB / 1.941GiB   0.87%               659kB / 720kB       242kB / 53MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            33.25%              58.54MiB / 1.941GiB   2.95%               763kB / 1.18MB      28.8MB / 541kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.02%               17.25MiB / 1.941GiB   0.87%               679kB / 742kB       242kB / 53MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.53%              59.7MiB / 1.941GiB    3.00%               784kB / 1.2MB       28.8MB / 549kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.29%               17.38MiB / 1.941GiB   0.87%               726kB / 798kB       242kB / 53.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            38.95%              58.61MiB / 1.941GiB   2.95%               825kB / 1.24MB      28.8MB / 553kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.04%               17.29MiB / 1.941GiB   0.87%               744kB / 819kB       336kB / 53.5MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            13.74%              61.84MiB / 1.941GiB   3.11%               856kB / 1.26MB      28.8MB / 565kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.48%               17.58MiB / 1.941GiB   0.88%               779kB / 863kB       336kB / 53.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            13.79%              58.57MiB / 1.941GiB   2.95%               903kB / 1.3MB       28.8MB / 573kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.23%               17.59MiB / 1.941GiB   0.89%               804kB / 893kB       336kB / 53.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            8.79%               58.93MiB / 1.941GiB   2.96%               921kB / 1.32MB      28.8MB / 578kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.04%               17.48MiB / 1.941GiB   0.88%               841kB / 939kB       336kB / 53.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               58.56MiB / 1.941GiB   2.95%               967kB / 1.35MB      28.8MB / 586kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.76%               18.83MiB / 1.941GiB   0.95%               850kB / 948kB       336kB / 53.8MB      12
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            29.93%              58.96MiB / 1.941GiB   2.97%               998kB / 1.38MB      28.8MB / 598kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.53MiB / 1.941GiB   0.88%               896kB / 1.01MB      336kB / 53.9MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            13.79%              59.75MiB / 1.941GiB   3.01%               1.04MB / 1.42MB     28.8MB / 606kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 5.39%               17.48MiB / 1.941GiB   0.88%               942kB / 1.06MB      336kB / 54MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            84.19%              57.84MiB / 1.941GiB   2.91%               1.09MB / 1.46MB     28.8MB / 614kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 3.30%               17.41MiB / 1.941GiB   0.88%               961kB / 1.08MB      336kB / 54.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            49.56%              59.01MiB / 1.941GiB   2.97%               1.12MB / 1.48MB     28.8MB / 623kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 3.74%               17.47MiB / 1.941GiB   0.88%               1MB / 1.13MB        336kB / 54.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            37.19%              59.66MiB / 1.941GiB   3.00%               1.14MB / 1.5MB      28.8MB / 627kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 3.12%               17.55MiB / 1.941GiB   0.88%               1.02MB / 1.15MB     336kB / 54.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               59.66MiB / 1.941GiB   3.00%               1.17MB / 1.52MB     28.8MB / 635kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.09%               17.54MiB / 1.941GiB   0.88%               1.06MB / 1.2MB      336kB / 54.4MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            97.75%              58.39MiB / 1.941GiB   2.94%               1.23MB / 1.57MB     28.8MB / 643kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.10%               17.49MiB / 1.941GiB   0.88%               1.08MB / 1.22MB     336kB / 54.5MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            22.25%              59.55MiB / 1.941GiB   3.00%               1.25MB / 1.59MB     28.8MB / 651kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 2.15%               18.79MiB / 1.941GiB   0.95%               1.12MB / 1.27MB     336kB / 54.6MB      12
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               58.4MiB / 1.941GiB    2.94%               1.29MB / 1.62MB     28.8MB / 659kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.31%               17.56MiB / 1.941GiB   0.88%               1.14MB / 1.3MB      336kB / 54.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               59.57MiB / 1.941GiB   3.00%               1.32MB / 1.65MB     28.8MB / 668kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.52MiB / 1.941GiB   0.88%               1.17MB / 1.33MB     336kB / 54.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            49.63%              58.8MiB / 1.941GiB    2.96%               1.38MB / 1.69MB     28.8MB / 680kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 3.55%               17.54MiB / 1.941GiB   0.88%               1.21MB / 1.37MB     336kB / 54.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               59.6MiB / 1.941GiB    3.00%               1.38MB / 1.7MB      28.8MB / 684kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.18%               17.59MiB / 1.941GiB   0.88%               1.24MB / 1.42MB     336kB / 55.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.97%              58.84MiB / 1.941GiB   2.96%               1.45MB / 1.75MB     28.8MB / 696kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.47MiB / 1.941GiB   0.88%               1.25MB / 1.42MB     336kB / 55.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            83.87%              58.52MiB / 1.941GiB   2.94%               1.48MB / 1.78MB     28.8MB / 705kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.58MiB / 1.941GiB   0.88%               1.29MB / 1.47MB     336kB / 55.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            17.49%              59.62MiB / 1.941GiB   3.00%               1.51MB / 1.8MB      28.8MB / 713kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 5.80%               17.51MiB / 1.941GiB   0.88%               1.33MB / 1.53MB     336kB / 55.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               58.88MiB / 1.941GiB   2.96%               1.53MB / 1.82MB     28.8MB / 717kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.15%               17.41MiB / 1.941GiB   0.88%               1.34MB / 1.54MB     336kB / 55.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               58.49MiB / 1.941GiB   2.94%               1.56MB / 1.84MB     28.8MB / 725kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 6.32%               17.54MiB / 1.941GiB   0.88%               1.38MB / 1.58MB     336kB / 55.4MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            40.63%              60.86MiB / 1.941GiB   3.06%               1.58MB / 1.86MB     28.8MB / 733kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.34%               17.49MiB / 1.941GiB   0.88%               1.4MB / 1.61MB      336kB / 55.5MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            36.52%              59.69MiB / 1.941GiB   3.00%               1.63MB / 1.9MB      28.8MB / 741kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.32%               17.45MiB / 1.941GiB   0.88%               1.43MB / 1.64MB     336kB / 55.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            70.40%              58.54MiB / 1.941GiB   2.94%               1.67MB / 1.93MB     28.8MB / 750kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.86%               17.61MiB / 1.941GiB   0.89%               1.46MB / 1.68MB     336kB / 55.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            19.19%              58.53MiB / 1.941GiB   2.94%               1.7MB / 1.96MB      28.8MB / 758kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.24%               17.53MiB / 1.941GiB   0.88%               1.48MB / 1.71MB     336kB / 55.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            28.76%              58.55MiB / 1.941GiB   2.95%               1.75MB / 2MB        28.8MB / 770kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 2.26%               17.55MiB / 1.941GiB   0.88%               1.51MB / 1.74MB     336kB / 55.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            34.83%              60.95MiB / 1.941GiB   3.07%               1.77MB / 2.02MB     28.8MB / 774kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 2.27%               17.39MiB / 1.941GiB   0.87%               1.56MB / 1.8MB      336kB / 56MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            27.82%              58.93MiB / 1.941GiB   2.96%               1.81MB / 2.05MB     28.8MB / 782kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.22%               17.54MiB / 1.941GiB   0.88%               1.57MB / 1.81MB     336kB / 56MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.27%              60.91MiB / 1.941GiB   3.06%               1.84MB / 2.08MB     28.8MB / 795kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.41%               17.55MiB / 1.941GiB   0.88%               1.61MB / 1.86MB     336kB / 56.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            14.81%              54.6MiB / 1.941GiB    2.75%               1.9MB / 2.12MB      29.8MB / 803kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 4.87%               17.52MiB / 1.941GiB   0.88%               1.64MB / 1.9MB      336kB / 56.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            78.66%              58.51MiB / 1.941GiB   2.94%               1.93MB / 2.15MB     29.8MB / 811kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 1.43%               17.5MiB / 1.941GiB    0.88%               1.67MB / 1.93MB     336kB / 56.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               60.25MiB / 1.941GiB   3.03%               1.95MB / 2.17MB     29.8MB / 815kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 7.17%               17.4MiB / 1.941GiB    0.88%               1.72MB / 1.99MB     336kB / 56.4MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            7.00%               59.03MiB / 1.941GiB   2.97%               1.98MB / 2.19MB     29.8MB / 823kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.02%               17.45MiB / 1.941GiB   0.88%               1.72MB / 1.99MB     336kB / 56.5MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               55.39MiB / 1.941GiB   2.79%               2.02MB / 2.23MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 2.00%               17.47MiB / 1.941GiB   0.88%               1.75MB / 2.02MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            31.04%              57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.04%               17.46MiB / 1.941GiB   0.88%               1.75MB / 2.02MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.47MiB / 1.941GiB   0.88%               1.75MB / 2.02MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.47MiB / 1.941GiB   0.88%               1.75MB / 2.03MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.13%               17.47MiB / 1.941GiB   0.88%               1.76MB / 2.03MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.06%               17.47MiB / 1.941GiB   0.88%               1.76MB / 2.03MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.47MiB / 1.941GiB   0.88%               1.76MB / 2.03MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.54MiB / 1.941GiB   0.88%               1.76MB / 2.03MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.23%               17.54MiB / 1.941GiB   0.88%               1.76MB / 2.03MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.43MiB / 1.941GiB   2.89%               2.04MB / 2.25MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.45MiB / 1.941GiB   0.88%               1.77MB / 2.06MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.45MiB / 1.941GiB   0.88%               1.77MB / 2.06MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.45MiB / 1.941GiB   0.88%               1.77MB / 2.06MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.45MiB / 1.941GiB   0.88%               1.77MB / 2.06MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.45MiB / 1.941GiB   0.88%               1.77MB / 2.06MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.45MiB / 1.941GiB   0.88%               1.77MB / 2.07MB     336kB / 56.6MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.77%               17.59MiB / 1.941GiB   0.89%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.24%               17.5MiB / 1.941GiB    0.88%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.10%               17.5MiB / 1.941GiB    0.88%               1.78MB / 2.07MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.13%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.5MiB / 1.941GiB    0.88%               1.79MB / 2.08MB     336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.04%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.88%               17.51MiB / 1.941GiB   0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.13%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.5MiB / 1.941GiB    0.88%               1.8MB / 2.09MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.81MB / 2.1MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.81MB / 2.1MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.5MiB / 1.941GiB    0.88%               1.81MB / 2.1MB      336kB / 56.7MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.12%               17.5MiB / 1.941GiB    0.88%               1.81MB / 2.1MB      336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.03%               17.5MiB / 1.941GiB    0.88%               1.81MB / 2.1MB      336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.15%               17.5MiB / 1.941GiB    0.88%               1.81MB / 2.1MB      336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.28%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.1MB      336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.03%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.1MB      336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.11MB     336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.25%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.11MB     336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.11MB     336kB / 56.8MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.41%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.11MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.11MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.5MiB / 1.941GiB    0.88%               1.82MB / 2.11MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.17%               17.5MiB / 1.941GiB    0.88%               1.83MB / 2.11MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.05%               17.5MiB / 1.941GiB    0.88%               1.83MB / 2.11MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               57.93MiB / 1.941GiB   2.91%               2.07MB / 2.26MB     29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.5MiB / 1.941GiB    0.88%               1.83MB / 2.14MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.5MiB / 1.941GiB    0.88%               1.83MB / 2.14MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.03%               17.5MiB / 1.941GiB    0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.85%               17.66MiB / 1.941GiB   0.89%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.21%               17.57MiB / 1.941GiB   0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.02%               17.57MiB / 1.941GiB   0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.84MB / 2.15MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57MB        11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.82%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.12%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.85MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.16MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.86MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.10%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.17MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.23%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.87MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.88MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.88MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.88MB / 2.18MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.88MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.76%               17.68MiB / 1.941GiB   0.89%               1.88MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.12%               17.57MiB / 1.941GiB   0.88%               1.88MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.88MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.03%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.02%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.21%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.19MB     336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.12%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.2MB      336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.2MB      336kB / 57.1MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.89MB / 2.2MB      336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.2MB       336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.2MB       336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.2MB       336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.2MB       336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.2MB       336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.11%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.21MB      336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.21MB      336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.02%               17.57MiB / 1.941GiB   0.88%               1.9MB / 2.21MB      336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.22%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.21MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.21MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.21MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.21MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.21MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.21MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.91MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.02%               17.57MiB / 1.941GiB   0.88%               1.92MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.92MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.92MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.22%               17.57MiB / 1.941GiB   0.88%               1.92MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.92MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.00%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.92MB / 2.22MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.10%               17.57MiB / 1.941GiB   0.88%               1.93MB / 2.23MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.01%               17.57MiB / 1.941GiB   0.88%               1.93MB / 2.23MB     336kB / 57.2MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.03%               17.57MiB / 1.941GiB   0.88%               1.93MB / 2.23MB     336kB / 57.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.93MB / 2.23MB     336kB / 57.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.00%               17.57MiB / 1.941GiB   0.88%               1.93MB / 2.23MB     336kB / 57.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7
+CONTAINER ID        NAME                                                                    CPU %               MEM USAGE / LIMIT     MEM %               NET I/O             BLOCK I/O           PIDS
+db226597b812        boca-new_frontend.z99ewwx6sm212702yv2mtia0z.3nzjs55b4dpen6sttnp11v1lo   0.00%               14.4MiB / 1.941GiB    0.72%               1.41MB / 5.38kB     5.54MB / 24.6kB     2
+f23b2115d516        boca-new_db.1.rcltw018cfuidc2eespc8ufg3                                 0.13%               17.57MiB / 1.941GiB   0.88%               1.93MB / 2.23MB     336kB / 57.3MB      11
+2b61bac10167        boca-new_backend.1.t7zjata0jhl2z2j7lbi5teu5y                            0.01%               56.12MiB / 1.941GiB   2.82%               2.1MB / 2.26MB      29.8MB / 831kB      7

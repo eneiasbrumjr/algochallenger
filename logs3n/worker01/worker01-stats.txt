@@ -1,0 +1,926 @@
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               69.71MiB / 512MiB   13.61%              6.37kB / 5.24kB     524kB / 0B          3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               69.71MiB / 512MiB   13.61%              7.22kB / 6.06kB     524kB / 0B          3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               69.71MiB / 512MiB   13.61%              7.22kB / 6.06kB     524kB / 0B          3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               69.71MiB / 512MiB   13.61%              8.07kB / 7.01kB     524kB / 0B          3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               69.71MiB / 512MiB   13.61%              8.11kB / 7.05kB     524kB / 0B          3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   55.17%              70.12MiB / 512MiB   13.70%              9.22kB / 8.26kB     524kB / 0B          4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.40%              81.15MiB / 512MiB   15.85%              185kB / 13.5kB      524kB / 2.06MB      10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               70.6MiB / 512MiB    13.79%              185kB / 13.5kB      524kB / 2.16MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   15.98%              71.18MiB / 512MiB   13.90%              185kB / 13.5kB      524kB / 3.49MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   8.38%               70.54MiB / 512MiB   13.78%              185kB / 13.5kB      524kB / 4.62MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.52%              70.93MiB / 512MiB   13.85%              188kB / 15.1kB      524kB / 8.71MB      5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   5.56%               70.75MiB / 512MiB   13.82%              191kB / 17.8kB      524kB / 8.72MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   14.28%              71.42MiB / 512MiB   13.95%              191kB / 17.8kB      524kB / 10.2MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.53%              70.67MiB / 512MiB   13.80%              191kB / 17.8kB      524kB / 11.1MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   2.50%               70.63MiB / 512MiB   13.80%              193kB / 19.6kB      524kB / 12MB        3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.54%              81.07MiB / 512MiB   15.83%              197kB / 22.3kB      524kB / 15.4MB      10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   32.65%              70.93MiB / 512MiB   13.85%              197kB / 22.3kB      524kB / 15.4MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.59%              70.71MiB / 512MiB   13.81%              197kB / 22.3kB      524kB / 16.2MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   14.00%              70.62MiB / 512MiB   13.79%              197kB / 22.3kB      524kB / 16.9MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   3.05%               70.68MiB / 512MiB   13.80%              197kB / 22.3kB      524kB / 17.8MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   1.76%               70.66MiB / 512MiB   13.80%              199kB / 24kB        524kB / 18.4MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.57%              71.52MiB / 512MiB   13.97%              202kB / 26.5kB      524kB / 22MB        6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.91%              71.55MiB / 512MiB   13.97%              202kB / 26.5kB      524kB / 22MB        7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.49%              71.45MiB / 512MiB   13.96%              202kB / 26.5kB      524kB / 23.5MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.41%              72.48MiB / 512MiB   14.16%              202kB / 26.5kB      524kB / 24.9MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               70.7MiB / 512MiB    13.81%              204kB / 28.4kB      524kB / 26.7MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.38%              76.28MiB / 512MiB   14.90%              208kB / 31kB        524kB / 28.7MB      9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   8.84%               70.96MiB / 512MiB   13.86%              208kB / 31kB        524kB / 28.7MB      5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.95%              70.69MiB / 512MiB   13.81%              208kB / 31kB        524kB / 29.5MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.60%              70.75MiB / 512MiB   13.82%              208kB / 31kB        524kB / 30.4MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.37%              72.16MiB / 512MiB   14.09%              208kB / 31kB        524kB / 31.6MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.62%              70.72MiB / 512MiB   13.81%              210kB / 33.8kB      524kB / 35.4MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.21%              71.28MiB / 512MiB   13.92%              213kB / 35.6kB      524kB / 35.4MB      5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   34.12%              70.73MiB / 512MiB   13.81%              213kB / 35.6kB      524kB / 36.2MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.01%              71.58MiB / 512MiB   13.98%              213kB / 35.6kB      524kB / 37.5MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.40%              70.73MiB / 512MiB   13.81%              215kB / 37.7kB      524kB / 38.3MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   39.84%              77.41MiB / 512MiB   15.12%              219kB / 40.4kB      524kB / 42MB        9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   3.80%               71.12MiB / 512MiB   13.89%              219kB / 40.5kB      524kB / 42MB        3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.10%               70.66MiB / 512MiB   13.80%              219kB / 40.5kB      524kB / 43.3MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.23%              72.09MiB / 512MiB   14.08%              219kB / 40.5kB      524kB / 44.2MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   31.31%              70.7MiB / 512MiB    13.81%              221kB / 42.5kB      524kB / 45MB        3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.32%              70.67MiB / 512MiB   13.80%              221kB / 42.5kB      524kB / 48.7MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.28%              81.64MiB / 512MiB   15.95%              225kB / 45.1kB      524kB / 48.7MB      10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.13%              71.37MiB / 512MiB   13.94%              225kB / 45.1kB      524kB / 49.4MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   15.34%              71.14MiB / 512MiB   13.89%              225kB / 45.1kB      524kB / 50.1MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   31.05%              71.61MiB / 512MiB   13.99%              225kB / 45.1kB      524kB / 51.6MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.91%              76.4MiB / 512MiB    14.92%              230kB / 49.7kB      524kB / 55.4MB      9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.78%              70.92MiB / 512MiB   13.85%              230kB / 49.7kB      524kB / 55.4MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.38%              71.57MiB / 512MiB   13.98%              230kB / 49.7kB      524kB / 56.8MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   1.39%               70.79MiB / 512MiB   13.83%              230kB / 49.7kB      524kB / 57MB        3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   15.27%              71.09MiB / 512MiB   13.88%              230kB / 49.7kB      524kB / 58.2MB      5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   45.90%              70.9MiB / 512MiB    13.85%              232kB / 51.3kB      524kB / 62MB        4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.54%              70.99MiB / 512MiB   13.86%              236kB / 53.9kB      524kB / 62MB        4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   6.76%               71.4MiB / 512MiB    13.95%              236kB / 53.9kB      524kB / 62.8MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.12%              71.61MiB / 512MiB   13.99%              236kB / 53.9kB      524kB / 64.2MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.78%               70.74MiB / 512MiB   13.82%              238kB / 55.7kB      524kB / 65.3MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.18%              71.6MiB / 512MiB    13.98%              241kB / 58.4kB      524kB / 68.7MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.06%              70.73MiB / 512MiB   13.81%              241kB / 58.4kB      524kB / 69.6MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   16.73%              70.93MiB / 512MiB   13.85%              241kB / 58.4kB      524kB / 70.8MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.69%              70.86MiB / 512MiB   13.84%              243kB / 60.1kB      524kB / 74MB        3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.97%              71.05MiB / 512MiB   13.88%              247kB / 62.8kB      524kB / 75.4MB      5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               70.8MiB / 512MiB    13.83%              247kB / 62.8kB      524kB / 75.6MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   15.41%              71.55MiB / 512MiB   13.98%              247kB / 62.8kB      524kB / 76.8MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   5.93%               70.82MiB / 512MiB   13.83%              247kB / 62.8kB      524kB / 77.7MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.93%              71.2MiB / 512MiB    13.91%              249kB / 64.5kB      524kB / 82MB        4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.46%              71.41MiB / 512MiB   13.95%              252kB / 67.3kB      524kB / 82MB        4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.71%              70.79MiB / 512MiB   13.83%              252kB / 67.3kB      524kB / 82.8MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.19%              71.67MiB / 512MiB   14.00%              252kB / 67.3kB      524kB / 84.2MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.03%              71.42MiB / 512MiB   13.95%              252kB / 67.3kB      524kB / 84.9MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   3.10%               70.77MiB / 512MiB   13.82%              254kB / 69.4kB      524kB / 85.6MB      3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.43%              78.84MiB / 512MiB   15.40%              258kB / 71.9kB      524kB / 88.7MB      10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.30%              71.62MiB / 512MiB   13.99%              258kB / 71.9kB      524kB / 89.4MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.99%              71.67MiB / 512MiB   14.00%              258kB / 71.9kB      524kB / 90.8MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.77%              71.12MiB / 512MiB   13.89%              260kB / 73.8kB      524kB / 95.3MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.29%              72.17MiB / 512MiB   14.10%              263kB / 76.4kB      524kB / 95.4MB      8
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.96%              70.88MiB / 512MiB   13.84%              263kB / 76.4kB      524kB / 95.4MB      4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.69%               71.62MiB / 512MiB   13.99%              263kB / 76.4kB      524kB / 96.8MB      7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.35%              71.37MiB / 512MiB   13.94%              263kB / 76.4kB      524kB / 98.2MB      6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.62%              71.13MiB / 512MiB   13.89%              265kB / 78.2kB      524kB / 102MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.00%              71.7MiB / 512MiB    14.00%              269kB / 80.9kB      524kB / 102MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   16.99%              71.59MiB / 512MiB   13.98%              269kB / 80.9kB      524kB / 103MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.15%              71.01MiB / 512MiB   13.87%              269kB / 80.9kB      524kB / 104MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.11%              71.16MiB / 512MiB   13.90%              271kB / 82.5kB      524kB / 109MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.26%              79.54MiB / 512MiB   15.53%              275kB / 85.1kB      524kB / 109MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.70%              70.86MiB / 512MiB   13.84%              275kB / 85.1kB      524kB / 109MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   31.19%              71.61MiB / 512MiB   13.99%              275kB / 85.1kB      524kB / 110MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.64%              71.07MiB / 512MiB   13.88%              275kB / 85.1kB      524kB / 111MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.16%              70.84MiB / 512MiB   13.84%              277kB / 86.9kB      524kB / 112MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.51%              71.22MiB / 512MiB   13.91%              280kB / 89.5kB      524kB / 115MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.09%              71.2MiB / 512MiB    13.91%              280kB / 89.5kB      524kB / 116MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.59%              71.63MiB / 512MiB   13.99%              280kB / 89.5kB      524kB / 117MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.85%              70.9MiB / 512MiB    13.85%              280kB / 89.5kB      524kB / 118MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.07%              71.25MiB / 512MiB   13.92%              282kB / 91.5kB      524kB / 122MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.80%              72.26MiB / 512MiB   14.11%              286kB / 94.3kB      524kB / 122MB       8
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.38%              71.55MiB / 512MiB   13.97%              286kB / 94.3kB      524kB / 123MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.65%              71.34MiB / 512MiB   13.93%              286kB / 94.3kB      524kB / 123MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   33.74%              71.63MiB / 512MiB   13.99%              286kB / 94.3kB      524kB / 125MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   46.19%              70.78MiB / 512MiB   13.82%              288kB / 96.8kB      524kB / 129MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.84%              71.62MiB / 512MiB   13.99%              291kB / 98.6kB      524kB / 129MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.48%              71.5MiB / 512MiB    13.97%              291kB / 98.6kB      524kB / 129MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   18.73%              71.02MiB / 512MiB   13.87%              291kB / 98.6kB      524kB / 131MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.57%              71.27MiB / 512MiB   13.92%              291kB / 98.6kB      524kB / 132MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.27%              81.68MiB / 512MiB   15.95%              297kB / 103kB       524kB / 135MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.66%              71.54MiB / 512MiB   13.97%              297kB / 103kB       524kB / 136MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.59%              71.45MiB / 512MiB   13.95%              297kB / 103kB       524kB / 137MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.74%              71.68MiB / 512MiB   14.00%              297kB / 103kB       524kB / 138MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.64%              71.42MiB / 512MiB   13.95%              299kB / 105kB       524kB / 142MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.33%              82.01MiB / 512MiB   16.02%              302kB / 108kB       524kB / 142MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.80%              71.48MiB / 512MiB   13.96%              302kB / 108kB       524kB / 143MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   32.70%              71.64MiB / 512MiB   13.99%              302kB / 108kB       524kB / 143MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   20.99%              71.02MiB / 512MiB   13.87%              302kB / 108kB       524kB / 145MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.52%              75.71MiB / 512MiB   14.79%              308kB / 112kB       524kB / 149MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.21%              71.41MiB / 512MiB   13.95%              308kB / 112kB       524kB / 149MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.37%              71.69MiB / 512MiB   14.00%              308kB / 112kB       524kB / 150MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.28%              71.44MiB / 512MiB   13.95%              308kB / 112kB       524kB / 151MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.46%              71.08MiB / 512MiB   13.88%              310kB / 114kB       524kB / 155MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.23%              71.35MiB / 512MiB   13.94%              313kB / 117kB       524kB / 155MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.18%              71.1MiB / 512MiB    13.89%              313kB / 117kB       524kB / 156MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.52%              71.82MiB / 512MiB   14.03%              313kB / 117kB       524kB / 157MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.18%              71.25MiB / 512MiB   13.92%              315kB / 119kB       524kB / 162MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.29%              71.25MiB / 512MiB   13.92%              319kB / 121kB       524kB / 162MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.71%              71.16MiB / 512MiB   13.90%              319kB / 121kB       524kB / 163MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   18.76%              71.81MiB / 512MiB   14.03%              319kB / 121kB       524kB / 164MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.83%              71.28MiB / 512MiB   13.92%              321kB / 123kB       524kB / 169MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   57.96%              79.7MiB / 512MiB    15.57%              324kB / 126kB       524kB / 169MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.40%              71.83MiB / 512MiB   14.03%              324kB / 126kB       524kB / 169MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.33%              71.16MiB / 512MiB   13.90%              324kB / 126kB       524kB / 170MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   21.56%              71.26MiB / 512MiB   13.92%              324kB / 126kB       524kB / 172MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.40%              75.13MiB / 512MiB   14.67%              330kB / 130kB       524kB / 175MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.79%              71.24MiB / 512MiB   13.91%              330kB / 130kB       524kB / 175MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.59%              71.75MiB / 512MiB   14.01%              330kB / 130kB       524kB / 177MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   32.86%              71.79MiB / 512MiB   14.02%              330kB / 130kB       524kB / 178MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   42.20%              72.3MiB / 512MiB    14.12%              336kB / 134kB       524kB / 182MB       8
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   9.00%               71.39MiB / 512MiB   13.94%              336kB / 134kB       524kB / 182MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   27.91%              71.86MiB / 512MiB   14.04%              336kB / 134kB       524kB / 184MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.24%              71.15MiB / 512MiB   13.90%              338kB / 137kB       524kB / 189MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.23%              71.88MiB / 512MiB   14.04%              341kB / 139kB       524kB / 189MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   56.30%              72.05MiB / 512MiB   14.07%              341kB / 139kB       524kB / 190MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   34.54%              71.07MiB / 512MiB   13.88%              341kB / 139kB       524kB / 191MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   38.67%              71.67MiB / 512MiB   14.00%              347kB / 144kB       524kB / 195MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.41%              71.18MiB / 512MiB   13.90%              347kB / 144kB       524kB / 196MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.72%              71.55MiB / 512MiB   13.97%              347kB / 144kB       524kB / 197MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.86%              71.04MiB / 512MiB   13.87%              347kB / 144kB       524kB / 198MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.72%              72.49MiB / 512MiB   14.16%              352kB / 149kB       524kB / 202MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   16.87%              71.46MiB / 512MiB   13.96%              352kB / 149kB       524kB / 203MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.60%              71.88MiB / 512MiB   14.04%              352kB / 149kB       524kB / 204MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.99%              71.04MiB / 512MiB   13.87%              354kB / 151kB       524kB / 209MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.27%              75.41MiB / 512MiB   14.73%              358kB / 153kB       524kB / 209MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.00%              71.05MiB / 512MiB   13.88%              358kB / 153kB       524kB / 209MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.64%              71.81MiB / 512MiB   14.03%              358kB / 153kB       524kB / 210MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.27%              71.85MiB / 512MiB   14.03%              358kB / 153kB       524kB / 212MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.30%              71.56MiB / 512MiB   13.98%              363kB / 158kB       524kB / 215MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   27.44%              71.92MiB / 512MiB   14.05%              363kB / 158kB       524kB / 215MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.59%              72MiB / 512MiB      14.06%              363kB / 158kB       524kB / 217MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   42.23%              71.3MiB / 512MiB    13.93%              363kB / 158kB       524kB / 217MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.80%              71.39MiB / 512MiB   13.94%              365kB / 160kB       524kB / 222MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.07%              71.98MiB / 512MiB   14.06%              369kB / 163kB       524kB / 222MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   34.53%              71.84MiB / 512MiB   14.03%              369kB / 163kB       524kB / 223MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.05%              71.86MiB / 512MiB   14.04%              369kB / 163kB       524kB / 225MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.34%              70.98MiB / 512MiB   13.86%              372kB / 166kB       524kB / 229MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   9.46%               71.29MiB / 512MiB   13.92%              374kB / 167kB       524kB / 229MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.78%              73.73MiB / 512MiB   14.40%              374kB / 167kB       524kB / 230MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.73%              71.22MiB / 512MiB   13.91%              374kB / 167kB       524kB / 231MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   18.08%              71.13MiB / 512MiB   13.89%              375kB / 168kB       524kB / 232MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.59%              75.95MiB / 512MiB   14.83%              380kB / 171kB       524kB / 235MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.94%              71.5MiB / 512MiB    13.96%              380kB / 172kB       524kB / 235MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   8.67%               71.6MiB / 512MiB    13.98%              380kB / 172kB       524kB / 237MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.63%              71.89MiB / 512MiB   14.04%              380kB / 172kB       524kB / 238MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.10%              72.64MiB / 512MiB   14.19%              385kB / 176kB       524kB / 242MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   34.68%              71.91MiB / 512MiB   14.04%              385kB / 176kB       524kB / 243MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.60%              71.97MiB / 512MiB   14.06%              385kB / 176kB       524kB / 244MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.32%              71.14MiB / 512MiB   13.90%              388kB / 178kB       524kB / 249MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.72%              72.54MiB / 512MiB   14.17%              391kB / 181kB       524kB / 249MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.78%              71.93MiB / 512MiB   14.05%              391kB / 181kB       524kB / 249MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.98%              71.42MiB / 512MiB   13.95%              391kB / 181kB       524kB / 250MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   56.00%              72.64MiB / 512MiB   14.19%              391kB / 181kB       524kB / 251MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.47%              71.07MiB / 512MiB   13.88%              393kB / 183kB       524kB / 255MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.09%              72MiB / 512MiB      14.06%              397kB / 185kB       524kB / 255MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   31.67%              71.12MiB / 512MiB   13.89%              397kB / 185kB       524kB / 256MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   27.64%              71.68MiB / 512MiB   14.00%              397kB / 185kB       524kB / 258MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.76%              72.38MiB / 512MiB   14.14%              402kB / 190kB       524kB / 262MB       8
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.54%              71.71MiB / 512MiB   14.01%              402kB / 190kB       524kB / 263MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   38.79%              71.75MiB / 512MiB   14.01%              402kB / 190kB       524kB / 264MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   42.15%              72.25MiB / 512MiB   14.11%              402kB / 190kB       524kB / 265MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   38.06%              71.05MiB / 512MiB   13.88%              406kB / 193kB       524kB / 269MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.53%              72.05MiB / 512MiB   14.07%              408kB / 194kB       524kB / 269MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   57.51%              73.68MiB / 512MiB   14.39%              408kB / 194kB       524kB / 270MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.63%              72.01MiB / 512MiB   14.06%              408kB / 194kB       524kB / 271MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.16%              76.61MiB / 512MiB   14.96%              413kB / 198kB       524kB / 275MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.99%              71.46MiB / 512MiB   13.96%              413kB / 199kB       524kB / 275MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.94%              71.94MiB / 512MiB   14.05%              413kB / 199kB       524kB / 277MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   7.88%               71.34MiB / 512MiB   13.93%              413kB / 199kB       524kB / 278MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   39.80%              77.87MiB / 512MiB   15.21%              419kB / 203kB       524kB / 282MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.01%              71.48MiB / 512MiB   13.96%              419kB / 203kB       524kB / 282MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   32.77%              71.97MiB / 512MiB   14.06%              419kB / 203kB       524kB / 283MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   55.07%              71.15MiB / 512MiB   13.90%              419kB / 203kB       524kB / 284MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.17%              71.43MiB / 512MiB   13.95%              421kB / 205kB       524kB / 289MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.42%              79.74MiB / 512MiB   15.57%              424kB / 207kB       524kB / 289MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.14%              72.02MiB / 512MiB   14.07%              424kB / 207kB       524kB / 289MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.48%              71.97MiB / 512MiB   14.06%              424kB / 207kB       524kB / 290MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   16.95%              72MiB / 512MiB      14.06%              424kB / 207kB       524kB / 291MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.02%              72.54MiB / 512MiB   14.17%              430kB / 212kB       524kB / 295MB       8
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   14.98%              71.33MiB / 512MiB   13.93%              430kB / 212kB       524kB / 295MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.66%              71.38MiB / 512MiB   13.94%              430kB / 212kB       524kB / 297MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.40%              72.08MiB / 512MiB   14.08%              430kB / 212kB       524kB / 298MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.04%              71.69MiB / 512MiB   14.00%              435kB / 216kB       524kB / 302MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   16.27%              72.09MiB / 512MiB   14.08%              435kB / 216kB       524kB / 302MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   43.02%              71.99MiB / 512MiB   14.06%              435kB / 216kB       524kB / 303MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   42.31%              71.96MiB / 512MiB   14.05%              435kB / 216kB       524kB / 305MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.28%              71.93MiB / 512MiB   14.05%              441kB / 220kB       524kB / 309MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.79%              71.44MiB / 512MiB   13.95%              441kB / 220kB       524kB / 309MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.44%              71.59MiB / 512MiB   13.98%              441kB / 220kB       524kB / 310MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.62%              71.88MiB / 512MiB   14.04%              441kB / 220kB       524kB / 311MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.19%              77.03MiB / 512MiB   15.05%              446kB / 225kB       524kB / 315MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.57%              71.83MiB / 512MiB   14.03%              446kB / 225kB       524kB / 315MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.44%              71.45MiB / 512MiB   13.95%              446kB / 225kB       524kB / 317MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.72%              71.83MiB / 512MiB   14.03%              446kB / 225kB       524kB / 318MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.26%              82.2MiB / 512MiB    16.06%              452kB / 230kB       524kB / 322MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.10%              71.36MiB / 512MiB   13.94%              452kB / 230kB       524kB / 323MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.47%              72.07MiB / 512MiB   14.08%              452kB / 230kB       524kB / 325MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.29%              73.38MiB / 512MiB   14.33%              458kB / 234kB       524kB / 329MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.61%              72.07MiB / 512MiB   14.08%              458kB / 234kB       524kB / 329MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   9.48%               72.14MiB / 512MiB   14.09%              458kB / 234kB       524kB / 331MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.97%              73.17MiB / 512MiB   14.29%              463kB / 239kB       524kB / 335MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   28.11%              71.29MiB / 512MiB   13.92%              463kB / 239kB       524kB / 335MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.94%              71.36MiB / 512MiB   13.94%              463kB / 239kB       524kB / 337MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   39.00%              72.09MiB / 512MiB   14.08%              463kB / 239kB       524kB / 338MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   39.31%              71.37MiB / 512MiB   13.94%              469kB / 243kB       524kB / 342MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.33%              72.16MiB / 512MiB   14.09%              469kB / 243kB       524kB / 342MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   32.80%              72.07MiB / 512MiB   14.08%              469kB / 243kB       524kB / 343MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   5.96%               71.32MiB / 512MiB   13.93%              469kB / 243kB       524kB / 345MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.10%              75.27MiB / 512MiB   14.70%              474kB / 248kB       524kB / 349MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.09%              72.13MiB / 512MiB   14.09%              474kB / 248kB       524kB / 349MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   15.44%              72.16MiB / 512MiB   14.09%              474kB / 248kB       524kB / 351MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   38.66%              71.21MiB / 512MiB   13.91%              478kB / 251kB       524kB / 355MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.46%              71.87MiB / 512MiB   14.04%              480kB / 253kB       524kB / 356MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.45%              72.18MiB / 512MiB   14.10%              480kB / 253kB       524kB / 357MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.05%              71.67MiB / 512MiB   14.00%              482kB / 254kB       524kB / 362MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.85%              72.2MiB / 512MiB    14.10%              485kB / 257kB       524kB / 362MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   8.76%               71.69MiB / 512MiB   14.00%              485kB / 257kB       524kB / 363MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.37%              71.71MiB / 512MiB   14.01%              487kB / 258kB       524kB / 369MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.68%              82.28MiB / 512MiB   16.07%              491kB / 261kB       524kB / 369MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   20.82%              71.87MiB / 512MiB   14.04%              491kB / 261kB       524kB / 370MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.12%              72.16MiB / 512MiB   14.09%              491kB / 261kB       524kB / 371MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.00%              72.23MiB / 512MiB   14.11%              496kB / 266kB       524kB / 375MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.48%              72.14MiB / 512MiB   14.09%              496kB / 266kB       524kB / 377MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.35%              71.35MiB / 512MiB   13.94%              498kB / 268kB       524kB / 378MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.91%              72.24MiB / 512MiB   14.11%              502kB / 271kB       524kB / 382MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.53%              71.42MiB / 512MiB   13.95%              502kB / 271kB       524kB / 383MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   9.81%               71.38MiB / 512MiB   13.94%              504kB / 273kB       524kB / 385MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   21.64%              71.28MiB / 512MiB   13.92%              506kB / 274kB       524kB / 389MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.99%              72.26MiB / 512MiB   14.11%              507kB / 275kB       524kB / 389MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   31.20%              72.16MiB / 512MiB   14.09%              507kB / 275kB       524kB / 390MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   1.20%               72.27MiB / 512MiB   14.12%              507kB / 275kB       524kB / 391MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.38%              71.73MiB / 512MiB   14.01%              510kB / 277kB       524kB / 395MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.71%              72.27MiB / 512MiB   14.12%              513kB / 280kB       524kB / 395MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.01%              70.58MiB / 512MiB   13.78%              513kB / 280kB       524kB / 397MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.45%              71.71MiB / 512MiB   14.01%              515kB / 282kB       524kB / 402MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.62%              71.38MiB / 512MiB   13.94%              518kB / 285kB       524kB / 402MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.07%              72.3MiB / 512MiB    14.12%              518kB / 285kB       524kB / 404MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.11%              71.44MiB / 512MiB   13.95%              521kB / 286kB       524kB / 409MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.94%              72.28MiB / 512MiB   14.12%              524kB / 289kB       524kB / 409MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   18.79%              72.2MiB / 512MiB    14.10%              524kB / 289kB       524kB / 410MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.93%              71.74MiB / 512MiB   14.01%              524kB / 289kB       524kB / 411MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   21.01%              75.02MiB / 512MiB   14.65%              530kB / 293kB       524kB / 415MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.37%              72.23MiB / 512MiB   14.11%              530kB / 293kB       524kB / 416MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   45.80%              72.29MiB / 512MiB   14.12%              530kB / 293kB       524kB / 417MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   31.24%              71.84MiB / 512MiB   14.03%              532kB / 295kB       524kB / 422MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   9.76%               72.31MiB / 512MiB   14.12%              535kB / 298kB       524kB / 422MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.44%              72.22MiB / 512MiB   14.11%              535kB / 298kB       524kB / 423MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.08%              72.19MiB / 512MiB   14.10%              535kB / 298kB       524kB / 425MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.55%              71.91MiB / 512MiB   14.04%              537kB / 300kB       524kB / 429MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   5.96%               72.34MiB / 512MiB   14.13%              541kB / 303kB       524kB / 429MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.51%              72.21MiB / 512MiB   14.10%              541kB / 303kB       524kB / 430MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.54%               72.34MiB / 512MiB   14.13%              541kB / 303kB       524kB / 431MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.64%              71.39MiB / 512MiB   13.94%              543kB / 304kB       524kB / 435MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.19%              71.78MiB / 512MiB   14.02%              546kB / 307kB       524kB / 435MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.43%              71.73MiB / 512MiB   14.01%              546kB / 307kB       524kB / 436MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.71%              71.52MiB / 512MiB   13.97%              546kB / 307kB       524kB / 437MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.99%              72.26MiB / 512MiB   14.11%              552kB / 312kB       524kB / 442MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.24%              71.85MiB / 512MiB   14.03%              552kB / 312kB       524kB / 443MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.94%              72.04MiB / 512MiB   14.07%              552kB / 312kB       524kB / 443MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   27.63%              71.67MiB / 512MiB   14.00%              554kB / 314kB       524kB / 449MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   7.63%               71.6MiB / 512MiB    13.98%              557kB / 317kB       524kB / 449MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.58%              71.72MiB / 512MiB   14.01%              557kB / 317kB       524kB / 450MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   20.18%              71.55MiB / 512MiB   13.97%              559kB / 319kB       524kB / 454MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.45%              72.37MiB / 512MiB   14.13%              563kB / 321kB       524kB / 455MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.35%              71.52MiB / 512MiB   13.97%              563kB / 321kB       524kB / 457MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.73%              72.32MiB / 512MiB   14.12%              563kB / 321kB       524kB / 458MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.35%              71.93MiB / 512MiB   14.05%              565kB / 324kB       524kB / 462MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.57%              71.77MiB / 512MiB   14.02%              568kB / 326kB       524kB / 462MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.46%              71.8MiB / 512MiB    14.02%              568kB / 326kB       524kB / 463MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   21.37%              72.38MiB / 512MiB   14.14%              568kB / 326kB       524kB / 464MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.53%              71.43MiB / 512MiB   13.95%              571kB / 328kB       524kB / 469MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.79%              72.09MiB / 512MiB   14.08%              574kB / 330kB       524kB / 469MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   18.76%              72.3MiB / 512MiB    14.12%              574kB / 330kB       524kB / 470MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.59%              72.38MiB / 512MiB   14.14%              574kB / 330kB       524kB / 471MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.48%              72MiB / 512MiB      14.06%              576kB / 332kB       524kB / 475MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.68%              82.38MiB / 512MiB   16.09%              580kB / 335kB       524kB / 475MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.46%              71.61MiB / 512MiB   13.99%              580kB / 335kB       524kB / 475MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.04%              72.1MiB / 512MiB    14.08%              580kB / 335kB       524kB / 477MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.10%              72.26MiB / 512MiB   14.11%              580kB / 335kB       524kB / 478MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.34%              71.46MiB / 512MiB   13.96%              583kB / 339kB       524kB / 482MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.57%              72.43MiB / 512MiB   14.15%              585kB / 340kB       524kB / 482MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.48%              71.6MiB / 512MiB    13.98%              585kB / 340kB       524kB / 483MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.11%              71.73MiB / 512MiB   14.01%              585kB / 340kB       524kB / 484MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.01%              71.84MiB / 512MiB   14.03%              587kB / 342kB       524kB / 489MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.03%              72.45MiB / 512MiB   14.15%              591kB / 344kB       524kB / 489MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   45.16%              72.04MiB / 512MiB   14.07%              591kB / 344kB       524kB / 490MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   55.56%              71.78MiB / 512MiB   14.02%              591kB / 344kB       524kB / 491MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.25%              71.95MiB / 512MiB   14.05%              593kB / 347kB       524kB / 495MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.12%              80.48MiB / 512MiB   15.72%              596kB / 349kB       524kB / 495MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.94%              72.39MiB / 512MiB   14.14%              596kB / 349kB       524kB / 496MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.79%              72.54MiB / 512MiB   14.17%              596kB / 349kB       524kB / 497MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.01%              72.04MiB / 512MiB   14.07%              598kB / 351kB       524kB / 502MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.80%              78.79MiB / 512MiB   15.39%              602kB / 354kB       524kB / 502MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.79%              71.74MiB / 512MiB   14.01%              602kB / 354kB       524kB / 503MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.90%              71.79MiB / 512MiB   14.02%              604kB / 356kB       524kB / 509MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.93%              71.78MiB / 512MiB   14.02%              607kB / 358kB       524kB / 509MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   12.75%              72.14MiB / 512MiB   14.09%              607kB / 358kB       524kB / 509MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.33%              71.91MiB / 512MiB   14.04%              607kB / 358kB       524kB / 511MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.99%              72.23MiB / 512MiB   14.11%              613kB / 363kB       524kB / 515MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.59%              72.49MiB / 512MiB   14.16%              613kB / 363kB       524kB / 515MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.30%              72.39MiB / 512MiB   14.14%              613kB / 363kB       524kB / 517MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.85%              72.45MiB / 512MiB   14.15%              613kB / 363kB       524kB / 518MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.35%              72.34MiB / 512MiB   14.13%              618kB / 368kB       524kB / 522MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.31%              72.5MiB / 512MiB    14.16%              618kB / 368kB       524kB / 522MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.02%              72.41MiB / 512MiB   14.14%              618kB / 368kB       524kB / 523MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.49%              72.45MiB / 512MiB   14.15%              618kB / 368kB       524kB / 525MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.25%              72.16MiB / 512MiB   14.09%              624kB / 372kB       524kB / 529MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   20.23%              72.16MiB / 512MiB   14.09%              624kB / 372kB       524kB / 529MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.64%              71.88MiB / 512MiB   14.04%              624kB / 372kB       524kB / 530MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.46%              71.91MiB / 512MiB   14.05%              624kB / 372kB       524kB / 531MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.57%              78.33MiB / 512MiB   15.30%              629kB / 376kB       524kB / 535MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   35.47%              71.89MiB / 512MiB   14.04%              629kB / 376kB       524kB / 535MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   23.09%              70.33MiB / 512MiB   13.74%              629kB / 376kB       524kB / 537MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   47.55%              71.7MiB / 512MiB    14.00%              632kB / 378kB       524kB / 538MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.75%              75.09MiB / 512MiB   14.67%              635kB / 381kB       524kB / 542MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.03%              72.02MiB / 512MiB   14.07%              635kB / 381kB       524kB / 542MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   14.74%              71.94MiB / 512MiB   14.05%              635kB / 381kB       524kB / 543MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.95%              71.67MiB / 512MiB   14.00%              637kB / 383kB       524kB / 547MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.20%              80.54MiB / 512MiB   15.73%              641kB / 385kB       524kB / 549MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.31%              72.51MiB / 512MiB   14.16%              641kB / 385kB       524kB / 549MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   54.60%              72.69MiB / 512MiB   14.20%              641kB / 385kB       524kB / 551MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   34.95%              70.8MiB / 512MiB    13.83%              643kB / 387kB       524kB / 555MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.44%              82.47MiB / 512MiB   16.11%              646kB / 390kB       524kB / 555MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.95%              72.33MiB / 512MiB   14.13%              646kB / 390kB       524kB / 556MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.13%              72.52MiB / 512MiB   14.16%              646kB / 390kB       524kB / 558MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.40%              75.95MiB / 512MiB   14.83%              652kB / 394kB       524kB / 562MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   30.47%              72.54MiB / 512MiB   14.17%              652kB / 394kB       524kB / 563MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   10.41%              72.58MiB / 512MiB   14.18%              652kB / 394kB       524kB / 564MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.79%              77.64MiB / 512MiB   15.16%              657kB / 399kB       524kB / 569MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.47%              72.52MiB / 512MiB   14.16%              657kB / 399kB       524kB / 569MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   9.25%               71.94MiB / 512MiB   14.05%              657kB / 399kB       524kB / 571MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.72%              72.4MiB / 512MiB    14.14%              663kB / 403kB       524kB / 575MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.42%              71.95MiB / 512MiB   14.05%              663kB / 403kB       524kB / 575MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   18.03%              72.02MiB / 512MiB   14.07%              663kB / 403kB       524kB / 577MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   41.13%              71.83MiB / 512MiB   14.03%              665kB / 405kB       524kB / 581MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   52.31%              82.61MiB / 512MiB   16.13%              668kB / 408kB       524kB / 582MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   33.12%              72.04MiB / 512MiB   14.07%              668kB / 408kB       524kB / 583MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   20.36%              72.08MiB / 512MiB   14.08%              668kB / 408kB       524kB / 584MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.15%              73.81MiB / 512MiB   14.42%              674kB / 412kB       524kB / 589MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.07%              72.58MiB / 512MiB   14.18%              674kB / 412kB       524kB / 589MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   43.11%              72.5MiB / 512MiB    14.16%              674kB / 412kB       524kB / 591MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.41%              72.19MiB / 512MiB   14.10%              676kB / 414kB       524kB / 595MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   14.06%              72.64MiB / 512MiB   14.19%              679kB / 417kB       524kB / 595MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   22.48%              72.73MiB / 512MiB   14.21%              679kB / 417kB       524kB / 597MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   45.20%              71.69MiB / 512MiB   14.00%              682kB / 419kB       524kB / 602MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   13.51%              71.84MiB / 512MiB   14.03%              685kB / 421kB       524kB / 602MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.72%              72.64MiB / 512MiB   14.19%              685kB / 421kB       524kB / 604MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.99%              72.24MiB / 512MiB   14.11%              687kB / 423kB       524kB / 608MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.09%              82.57MiB / 512MiB   16.13%              690kB / 426kB       524kB / 608MB       10
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   19.10%              72.61MiB / 512MiB   14.18%              690kB / 426kB       524kB / 609MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   26.59%              72.65MiB / 512MiB   14.19%              690kB / 426kB       524kB / 611MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.39%              72.22MiB / 512MiB   14.11%              693kB / 428kB       524kB / 615MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   48.47%              72.59MiB / 512MiB   14.18%              696kB / 430kB       524kB / 615MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   33.88%              72.57MiB / 512MiB   14.17%              696kB / 430kB       524kB / 617MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   27.89%              72.62MiB / 512MiB   14.18%              696kB / 430kB       524kB / 618MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   44.76%              77.82MiB / 512MiB   15.20%              702kB / 435kB       524kB / 622MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   25.19%              72.63MiB / 512MiB   14.19%              702kB / 435kB       524kB / 623MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   24.36%              72.68MiB / 512MiB   14.20%              702kB / 435kB       524kB / 624MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.52%              71.89MiB / 512MiB   14.04%              704kB / 437kB       524kB / 628MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   17.85%              72.72MiB / 512MiB   14.20%              707kB / 439kB       524kB / 628MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   20.35%              72.52MiB / 512MiB   14.16%              707kB / 439kB       524kB / 631MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   55.74%              72.32MiB / 512MiB   14.13%              707kB / 439kB       524kB / 631MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   38.51%              72.74MiB / 512MiB   14.21%              713kB / 444kB       524kB / 635MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   7.06%               72.65MiB / 512MiB   14.19%              713kB / 444kB       524kB / 635MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   29.54%              72.62MiB / 512MiB   14.18%              713kB / 444kB       524kB / 637MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   11.67%              72.04MiB / 512MiB   14.07%              713kB / 444kB       524kB / 638MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   50.13%              72.73MiB / 512MiB   14.21%              718kB / 449kB       524kB / 642MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   40.27%              72.7MiB / 512MiB    14.20%              718kB / 449kB       524kB / 643MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   42.67%              72.55MiB / 512MiB   14.17%              718kB / 449kB       524kB / 645MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.97%              76.48MiB / 512MiB   14.94%              724kB / 453kB       524kB / 648MB       9
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   36.65%              72.59MiB / 512MiB   14.18%              724kB / 453kB       524kB / 649MB       6
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   43.51%              72.75MiB / 512MiB   14.21%              724kB / 453kB       524kB / 651MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   45.07%              72.02MiB / 512MiB   14.07%              726kB / 455kB       524kB / 655MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   53.09%              72.97MiB / 512MiB   14.25%              729kB / 457kB       524kB / 655MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   51.73%              71.76MiB / 512MiB   14.02%              729kB / 457kB       524kB / 656MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   37.74%              72.32MiB / 512MiB   14.12%              729kB / 457kB       524kB / 657MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   49.87%              72.37MiB / 512MiB   14.13%              731kB / 459kB       524kB / 662MB       5
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   32.90%              72.77MiB / 512MiB   14.21%              735kB / 462kB       524kB / 662MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   42.15%              72.68MiB / 512MiB   14.20%              735kB / 462kB       524kB / 663MB       7
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   38.27%              72.48MiB / 512MiB   14.16%              735kB / 462kB       524kB / 665MB       4
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              737kB / 463kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              737kB / 463kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              737kB / 463kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              738kB / 464kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              738kB / 464kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.41%               71.93MiB / 512MiB   14.05%              738kB / 465kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              738kB / 465kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              738kB / 465kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              739kB / 466kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              739kB / 466kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              740kB / 467kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              740kB / 467kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              740kB / 467kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              741kB / 468kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              741kB / 468kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              741kB / 468kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              742kB / 469kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              742kB / 469kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   1.03%               71.93MiB / 512MiB   14.05%              743kB / 470kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              743kB / 470kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              743kB / 470kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              744kB / 471kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              744kB / 471kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              744kB / 471kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              744kB / 471kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              744kB / 471kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              745kB / 472kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              745kB / 472kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              745kB / 472kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              746kB / 473kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              746kB / 473kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              747kB / 474kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              747kB / 474kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              748kB / 475kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              748kB / 475kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              749kB / 476kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              749kB / 476kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              749kB / 476kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              750kB / 477kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              750kB / 477kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              750kB / 478kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              750kB / 478kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.67%               71.93MiB / 512MiB   14.05%              751kB / 479kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              751kB / 479kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              751kB / 479kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              752kB / 479kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              752kB / 479kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              753kB / 480kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              753kB / 480kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.58%               71.93MiB / 512MiB   14.05%              754kB / 481kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              754kB / 481kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.91%               71.93MiB / 512MiB   14.05%              755kB / 482kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              755kB / 482kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              755kB / 482kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              756kB / 483kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              756kB / 483kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              756kB / 484kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              756kB / 484kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              756kB / 484kB       524kB / 665MB       3
+CONTAINER ID        NAME                                             CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+256686f1dbff        boca-new_boca-jail.1.kczp4f27qa4rnzzaetesd0rwa   0.00%               71.93MiB / 512MiB   14.05%              757kB / 485kB       524kB / 665MB       3

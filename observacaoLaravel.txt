@@ -1,0 +1,2 @@
+Laravel gera chaves aleatorias
+Fixar para descriptografar com chave unica
