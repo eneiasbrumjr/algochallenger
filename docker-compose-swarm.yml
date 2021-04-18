@@ -7,7 +7,7 @@ services:
 #            context: ./backend
 #            dockerfile: ./docker/Dockerfile
         volumes:
-            - ~/boca/algochallenger/boca-volume:/var/www/app/storage
+            - ./boca-volume:/var/www/app/storage
         depends_on:
             - db
         deploy:
