@@ -17,7 +17,7 @@ services:
            replicas: 1
         ports:
             - 8001:80
-               environment:
+        environment:
             - DB_CONNECTION=pgsql
             - APP_DEBUG=true
             - APP_URL=http://ip172-18-0-43-buqqjmvp2ffg00dr7mng-8001.direct.labs.play-with-docker.com
@@ -66,7 +66,7 @@ services:
            placement:
              constraints: [node.role == manager]
 
- boca-jail:
+    boca-jail:
         image: jvfazolo/boca-jail
         privileged: true
         hostname: boca-jail
