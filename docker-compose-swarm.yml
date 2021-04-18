@@ -1,35 +1,26 @@
 version: '3.7'
-services: 
+services:
     backend:
-        container_name: backend
+        hostname: backend
         privileged: true
         image: jvfazolo/algochallenger-backend
 #        build: 
 #            context: ./backend
 #            dockerfile: ./docker/Dockerfile
         volumes:
-            - ~/PrivateProjects/boca-testes/boca-volume:/var/www/app/storage
-        depends_on: 
+            - ~/boca/boca-volume:/var/www/app/storage
+        depends_on:
             - db
         deploy:
-#           mode: global
-#           placement:
-#             constraints: [node.role == manager]
+           placement:
+             constraints: [node.role == manager]
            replicas: 1
-           update_config:
-             parallelism: 2
-#           restart_policy:
-#             condition: on-failure
-           resources:
-             limits:
-               cpus: '1'
-               memory: 512M
-        ports: 
+        ports:
             - 8001:80
-        environment: 
+               environment:
             - DB_CONNECTION=pgsql
             - APP_DEBUG=true
-            - APP_URL=http://localhost
+            - APP_URL=http://ip172-18-0-43-buqqjmvp2ffg00dr7mng-8001.direct.labs.play-with-docker.com
             - DB_PORT=5432
             - DB_DATABASE=boca
             - APP_NAME=Boca
@@ -39,9 +30,10 @@ services:
             - DB_PASSWORD=boca
             - DB_HOST=db
             - JWT_SECRET=UiUT2Dd8EwuiHpEFKsf93k945OTipS8uZb0gIl7PnwiVUIZv37yf5puWF0S5qHQx
-            - APP_KEY=iUT2Dd8EwuiHpEFKs 
+            - APP_KEY=iUT2Dd8EwuiHpEFKs
+
     frontend:
-        container_name: frontend
+        hostname: frontend
         privileged: true
         image: jvfazolo/algochallenger-frontend
  #       build: 
@@ -49,12 +41,8 @@ services:
  #           dockerfile: ./docker/Dockerfile
         deploy:
            mode: global
-#           placement:
-#              constraints: [node.role == manager]
-           resources:
-              limits:
-                 cpus: '1'
-                 memory: 1024M
+           placement:
+              constraints: [node.role == manager]
         environment: 
             - VUE_APP_BACKEND_URL=http://localhost:8001/api
         ports: 
@@ -65,8 +53,8 @@ services:
     db:
         image: postgres:12
         privileged: true
-        container_name: boca-postgres
-        environment: 
+        hostname: db
+        environment:
             - POSTGRES_PASSWORD=boca
             - POSTGRES_USER=boca
        # healthcheck:
@@ -75,33 +63,22 @@ services:
        #     timeout: 5s
        #     retries: 5
         deploy:
-#           mode: global
-#           placement:
-#             constraints: [node.role == worker]
-           resources:
-             limits:
-               cpus: '1'
-               memory: 1024M
+           placement:
+             constraints: [node.role == manager]
 
-    boca-jail:
+ boca-jail:
         image: jvfazolo/boca-jail
         privileged: true
-        container_name: boca-jail
+        hostname: boca-jail
+        depends_on:
+            - db
         deploy:
-#           mode: global
-#           placement:
-#              constraints: [node.role == worker]
-           replicas: 4
-           update_config:
-               parallelism: 1
-               delay: 10s
-       #    restart_policy:
-       #        condition: on-failure
+           replicas: 1
            resources:
              limits:
-               cpus: '1'
+               cpus: '0.5'
                memory: 512M
-        environment: 
+        environment:
             - API_URL=http://backend/api
             - DB_HOST=db
             - DB_PORT=5432
