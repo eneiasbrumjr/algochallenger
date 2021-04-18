@@ -1,3 +1,5 @@
 #!/bin/bash
 
-mkdir ~/boca/funciona
+cd ~/boca/algochallenger
+
+docker stack deploy -c docker-compose.swarm.yml boca-new
