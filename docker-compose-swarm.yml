@@ -2,7 +2,6 @@ version: '3.7'
 services:
     backend:
         hostname: backend
-        privileged: true
         image: jvfazolo/algochallenger-backend
 #        build: 
 #            context: ./backend
@@ -34,7 +33,6 @@ services:
 
     frontend:
         hostname: frontend
-        privileged: true
         image: jvfazolo/algochallenger-frontend
  #       build: 
  #           context: ./frontend
@@ -52,7 +50,6 @@ services:
 
     db:
         image: postgres:12
-        privileged: true
         hostname: db
         environment:
             - POSTGRES_PASSWORD=boca
@@ -68,7 +65,6 @@ services:
 
     boca-jail:
         image: jvfazolo/boca-jail
-        privileged: true
         hostname: boca-jail
         depends_on:
             - db
