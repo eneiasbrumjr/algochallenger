@@ -62,7 +62,7 @@ services:
         environment:
             - DB_CONNECTION=pgsql
             - APP_DEBUG=true
-            - APP_URL=http://localhost:8001
+            - APP_URL=http://backend:8001
             - DB_PORT=5432
             - DB_DATABASE=boca
             - APP_NAME=Boca
@@ -85,7 +85,8 @@ services:
            placement:
               constraints: [node.role == manager]
         environment: 
-            - VUE_APP_BACKEND_URL=http://localhost:8001/api
+            - VUE_APP_BACKEND_URL=http://backend/api
+            # - VUE_APP_BACKEND_URL=http://backend:8001/api
         networks:
             - frontend-network
         ports: 
