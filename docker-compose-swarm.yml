@@ -1,5 +1,45 @@
 version: '3.7'
 services:
+    db:
+        image: postgres:12
+        hostname: db
+        networks:
+            - backend-network
+        environment:
+            - POSTGRES_PASSWORD=boca
+            - POSTGRES_USER=boca
+       # healthcheck:
+       #     test: ["CMD-SHELL", "pg_isready -U postgres"]
+       #     interval: 10s
+       #     timeout: 5s
+       #     retries: 5
+        deploy:
+           placement:
+             constraints: [node.role == manager]
+
+    boca-jail:
+        image: jvfazolo/boca-jail
+        hostname: boca-jail
+        networks:
+            - backend-network
+        depends_on:
+            - db
+        deploy:
+           replicas: 1
+           resources:
+             limits:
+               cpus: '0.5'
+               memory: 512M
+        environment:
+            - API_URL=http://backend/api
+            - DB_HOST=db
+            - DB_PORT=5432
+            - DB_NAME=boca
+            - DB_USER=boca
+            - DB_PASSWORD=boca
+            - ADMIN_USER=admin
+            - ADMIN_PASSWORD=algochallenger
+
     backend:
         hostname: backend
         image: jvfazolo/algochallenger-backend
@@ -52,46 +92,6 @@ services:
             - 8181:80
         depends_on: 
             - backend
-
-    db:
-        image: postgres:12
-        hostname: db
-        networks:
-            - backend-network
-        environment:
-            - POSTGRES_PASSWORD=boca
-            - POSTGRES_USER=boca
-       # healthcheck:
-       #     test: ["CMD-SHELL", "pg_isready -U postgres"]
-       #     interval: 10s
-       #     timeout: 5s
-       #     retries: 5
-        deploy:
-           placement:
-             constraints: [node.role == manager]
-
-    boca-jail:
-        image: jvfazolo/boca-jail
-        hostname: boca-jail
-        networks:
-            - backend-network
-        depends_on:
-            - db
-        deploy:
-           replicas: 1
-           resources:
-             limits:
-               cpus: '0.5'
-               memory: 512M
-        environment:
-            - API_URL=http://backend/api
-            - DB_HOST=db
-            - DB_PORT=5432
-            - DB_NAME=boca
-            - DB_USER=boca
-            - DB_PASSWORD=boca
-            - ADMIN_USER=admin
-            - ADMIN_PASSWORD=algochallenger
 
 volumes:
     boca-volume:   
