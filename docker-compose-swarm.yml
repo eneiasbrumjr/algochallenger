@@ -3,8 +3,8 @@ services:
     db:
         image: postgres:12
         hostname: db
-        # networks:
-        #     - backend-network
+        networks:
+            - backend-network
         environment:
             - POSTGRES_PASSWORD=boca
             - POSTGRES_USER=boca
@@ -20,8 +20,8 @@ services:
     boca-jail:
         image: jvfazolo/boca-jail
         hostname: boca-jail
-        # networks:
-        #     - backend-network
+        networks:
+            - backend-network
         depends_on:
             - db
         deploy:
@@ -54,9 +54,9 @@ services:
            placement:
              constraints: [node.role == manager]
            replicas: 1
-        # networks:
-        #     - backend-network
-        #     - frontend-network
+        networks:
+            - backend-network
+            - frontend-network
         ports:
             - 8001:80
         environment:
@@ -86,8 +86,8 @@ services:
               constraints: [node.role == manager]
         environment: 
             - VUE_APP_BACKEND_URL=http://localhost:8001/api
-        # networks:
-        #     - frontend-network
+        networks:
+            - frontend-network
         ports: 
             - 8181:80
         depends_on: 
@@ -95,6 +95,6 @@ services:
 
 volumes:
     boca-volume:   
-# networks:
-#     backend-network:
-#     frontend-network:
+networks:
+    backend-network:
+    frontend-network:
