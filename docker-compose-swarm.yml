@@ -94,8 +94,21 @@ services:
         depends_on: 
             - backend
 
+    api:
+        build:
+            context: app
+            dockerfile: Dockerfile
+        container_name: flask
+        image: digitalocean.com/flask-python:2.7
+        restart: unless-stopped
+        volumes:
+            - appdata:/var/www
+        networks:
+            - backend-network
+
 volumes:
-    boca-volume:   
+    boca-volume:
+    appdata:   
 networks:
     backend-network:
     frontend-network:

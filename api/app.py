@@ -38,7 +38,7 @@ class Calc(Resource):
         # TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xNjUuMjI3LjYwLjE5Mzo4MDAxXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjEyMjczODQ3LCJleHAiOjE2MTIzMzM4NDcsIm5iZiI6MTYxMjI3Mzg0NywianRpIjoib0tNanZRN1dDTXRNSmpxZSIsInN1YiI6MSwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.CodOkZXcmuCKBtKFdt_NFUoTnYhmumJHbMTuciOa8kU"
 
         response = requests.get(
-                "http://165.227.60.193:8001/api/problem/1/run",
+                "http://159.65.254.240:8001/api/problem/1/run",
                 headers={"Authorization": "Bearer "+TOKEN}
         )
         response.raise_for_status()
@@ -54,12 +54,12 @@ class Calc(Resource):
         media_list = []
         media_list_general = []
         media_list_100v = []
-
+        i=1
 
         #client = docker.from_env()
         client = docker.APIClient(base_url='unix://var/run/docker.sock')
         #client = client.json()
-        i=1
+        
 
         for container in (client.tasks(filters={'name': 'boca-new_boca-jail'})):
                 #filters={'name': 'boca-new_boca-jail'}
