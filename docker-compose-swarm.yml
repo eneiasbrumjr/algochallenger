@@ -95,30 +95,25 @@ services:
             - backend
 
     api-mon:
-        image: python
         hostname: api-mon
-        build:
-            context: api
-            dockerfile: Dockerfile
+        build: ./api
+        image: api-mon
         restart: unless-stopped
         ports:
             - 5000:5000
         networks:
+            - frontend-network
             - backend-network
 
     dash-mon:
-        image: dash
         hostname: dash-mon
-        build:
-            context: dashboard
-            dockerfile: Dockerfile
+        build: ./dashboard
+        image: dash-mon
         restart: unless-stopped
         ports:
             - 8081:80
         networks:
             - frontend-network
-
-
 
 volumes:
     boca-volume:
