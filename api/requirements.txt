@@ -1,7 +1,8 @@
-flask==1.1.1
-matplotlib==2.2.5
-numpy==1.16.6
-pandas==0.24.2
-flask_restful==0.3.8
+configparser==4.0.2
 dateparser==0.7.6
-requests==2.25.1
+Flask==1.1.2
+Flask-Cors==3.0.10
+Flask-RESTful==0.3.8
+numpy
+pandas
+requests==2.24.0

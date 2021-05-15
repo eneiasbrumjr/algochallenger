@@ -1,21 +1,17 @@
-FROM python:3.6.8-alpine3.9
+FROM python
 
 LABEL MAINTAINER="Eneias Brum <eneiasbrumjr@gmail.com>"
 
-ENV GROUP_ID=1000 \
-    USER_ID=1000
+COPY ./requirements.txt /app/requirements.txt
 
-WORKDIR /var/www/
+WORKDIR /app
 
-ADD . /var/www/
 RUN pip install -r requirements.txt
-RUN pip install gunicorn
 
-RUN addgroup -g $GROUP_ID www
-RUN adduser -D -u $USER_ID -G www www -s /bin/sh
-
-USER www
+COPY . /app
 
 EXPOSE 5000
 
-CMD [ "gunicorn", "-w", "4", "--bind", "0.0.0.0:5000", "wsgi"]
+ENTRYPOINT [ "python" ]
+
+CMD [ "app.py" ]

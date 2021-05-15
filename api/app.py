@@ -3,29 +3,20 @@
 from flask import Flask
 from flask import request
 
+from flask_cors import CORS, cross_origin
 from flask_restful import Resource, Api, reqparse
 import pandas as pd
 import ast
 import dateparser
 import requests
 import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.ticker import PercentFormatter
-from flask_cors import CORS, cross_origin
-import docker
+
 
 np.set_printoptions(precision=2, suppress=True)
 
 app = Flask(__name__)
 api = Api(app)
 CORS(app)
-
-# client = docker.DockerClient(base_url='unix:///var/run/docker.sock')
-
-# stats_obj = client.stats('boca-new_boca-jail')
-# for stat in stats_obj:
-#     print(stat)
-
 
 
 class Calc(Resource):
@@ -35,10 +26,9 @@ class Calc(Resource):
         TOKEN = request.headers.get('token')
         
         print(request.headers.get('token'))
-        # TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xNjUuMjI3LjYwLjE5Mzo4MDAxXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjEyMjczODQ3LCJleHAiOjE2MTIzMzM4NDcsIm5iZiI6MTYxMjI3Mzg0NywianRpIjoib0tNanZRN1dDTXRNSmpxZSIsInN1YiI6MSwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.CodOkZXcmuCKBtKFdt_NFUoTnYhmumJHbMTuciOa8kU"
 
         response = requests.get(
-                "http://159.65.254.240:8001/api/problem/1/run",
+                "http://backend/api/problem/1/run",
                 headers={"Authorization": "Bearer "+TOKEN}
         )
         response.raise_for_status()
