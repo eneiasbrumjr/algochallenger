@@ -106,6 +106,20 @@ services:
         networks:
             - backend-network
 
+    dash-mon:
+        image: dash
+        hostname: dash-mon
+        build:
+            context: ./dashboard
+            dockerfile: Dockerfile
+        restart: unless-stopped
+        ports:
+            - 8081:80
+        networks:
+            - frontend-network
+
+
+
 volumes:
     boca-volume:
 networks:

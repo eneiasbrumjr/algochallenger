@@ -1,0 +1,14 @@
+
+###
+
+FROM    mhart/alpine-node
+
+RUN     npm install -g http-server
+
+WORKDIR /site
+ADD     ./    /site
+
+# The default port of the application
+EXPOSE  5555
+
+CMD ["http-server", "--cors", "-p5555", "./"]

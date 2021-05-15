@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.79.0">
+  <title>Signin Template · Bootstrap v5.0</title>
+
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sign-in/">
+
+
+
+  <!-- Bootstrap core CSS -->
+  <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+
+
+  <!-- Custom styles for this template -->
+  <link href="./css/signin.css" rel="stylesheet">
+</head>
+
+<body class="text-center">
+
+  <main class="form-signin">
+    <form onsubmit="jascript:fetcLogin(event)">
+      <h1 class="h3 mb-3 fw-normal">LOGIN</h1>
+      <label for="username" class="visually-hidden">Nome de usuário</label>
+      <input type="text" id="username" class="form-control" placeholder="username" required autofocus>
+      <label for="password" class="visually-hidden">Senha</label>
+      <input type="password" id="password" class="form-control" placeholder="Password" required>
+      <button class="w-100 btn btn-lg btn-primary" type="submit">ENTRAR</button>
+      <p class="mt-5 mb-3 text-muted">&copy; 2020-2021</p>
+    </form>
+  </main>
+
+  <script>
+    const API = 'http://${EXTERNAL_IP}:8001/api'
+    let headers = new Headers();
+
+    let customHeader = {
+      method: 'POST',
+      headers: headers,
+      mode: 'cors',
+      cache: 'default'
+    };
+
+    function fetcLogin(e) {
+      e.preventDefault();
+
+      const username = document.getElementById('username').value;
+      const password = document.getElementById('password').value;
+
+      fetch(`${API}/login?username=${username}&password=${password}`, customHeader).then(res => res.json()).then(response => {
+        const user_token = response.access_token;
+        const user = response.user;
+
+        localStorage.setItem('user', JSON.stringify())
+        localStorage.setItem('token', JSON.stringify(user_token))
+        console.log('LOGADO COM SUCESSO!')
+
+        window.location.assign("/dashboard.html")
+      }).catch(err => {
+        console.error('Error: ', err)
+      })
+
+    }
+
+    // fetch('http://165.227.60.193:8001/api/problem/1/run/', customHeader).then(res => res.json()).then(ress => {
+    //   console.log('----', ress)
+    // }).catch(err => {
+    //   console.error('Error:', err)
+    // })
+  </script>
+
+
+</body>
+
+</html>
