@@ -98,7 +98,7 @@ services:
         image: python
         hostname: api-mon
         build:
-            context: ./api
+            context: api
             dockerfile: Dockerfile
         restart: unless-stopped
         ports:
@@ -110,7 +110,7 @@ services:
         image: dash
         hostname: dash-mon
         build:
-            context: ./dashboard
+            context: dashboard
             dockerfile: Dockerfile
         restart: unless-stopped
         ports:
