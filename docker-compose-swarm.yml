@@ -95,11 +95,14 @@ services:
             - backend
 
     api_mon:
+        image: python
+        hostname:
         build:
-            context: api
+            context: ./api
             dockerfile: Dockerfile
-        container_name: flask
         restart: unless-stopped
+        ports:
+            - 5000:5000
         networks:
             - backend-network
 
