@@ -1,2 +1,0 @@
-ar = input()
-print(ar)
