@@ -1,0 +1,4 @@
+config:
+  digitalocean-algochallenger:Hello: ""
+  digitalocean:token:
+    secure: 

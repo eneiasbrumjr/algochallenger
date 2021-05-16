@@ -1,0 +1,6 @@
+name: digitalocean-algochallenger
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: algochallenger
