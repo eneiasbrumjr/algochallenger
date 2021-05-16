@@ -46,16 +46,16 @@ class Calc(Resource):
         media_list_100v = []
         i=1
 
-        #client = docker.from_env()
-        client = docker.APIClient(base_url='unix://var/run/docker.sock')
-        #client = client.json()
+        # #client = docker.from_env()
+        # client = docker.APIClient(base_url='unix://var/run/docker.sock')
+        # #client = client.json()
         
 
-        for container in (client.tasks(filters={'name': 'boca-new_boca-jail'})):
-                #filters={'name': 'boca-new_boca-jail'}
-        #yaml.safe_load(container)    
-                if (container["Status"]["State"]) == "running":
-                        i=i+1
+        # for container in (client.tasks(filters={'name': 'boca-new_boca-jail'})):
+        #         #filters={'name': 'boca-new_boca-jail'}
+        # #yaml.safe_load(container)    
+        #         if (container["Status"]["State"]) == "running":
+        #                 i=i+1
 
         print(i)
 

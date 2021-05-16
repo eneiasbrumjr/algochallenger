@@ -99,6 +99,8 @@ services:
         build: ./api
         image: api-mon
         restart: unless-stopped
+        environment: 
+            - EXTERNAL_IP=${EXTERNAL_IP}
         ports:
             - 5000:5000
         networks:
@@ -110,6 +112,8 @@ services:
         build: ./dashboard
         image: dash-mon
         restart: unless-stopped
+        environment: 
+            - EXTERNAL_IP=${EXTERNAL_IP}
         ports:
             - 8081:80
         networks:

@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const API = "http://127.0.0.1:5000/calc";
+  const API = "http://api-mon:5000/calc";
   let headers = new Headers();
   headers.append("token", `${JSON.parse(localStorage.getItem("token"))}`);
 
