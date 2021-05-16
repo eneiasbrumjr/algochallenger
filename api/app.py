@@ -44,30 +44,11 @@ class Calc(Resource):
         media_list = []
         media_list_general = []
         media_list_100v = []
-        i=1
 
-        # #client = docker.from_env()
-        # client = docker.APIClient(base_url='unix://var/run/docker.sock')
-        # #client = client.json()
-        
-
-        # for container in (client.tasks(filters={'name': 'boca-new_boca-jail'})):
-        #         #filters={'name': 'boca-new_boca-jail'}
-        # #yaml.safe_load(container)    
-        #         if (container["Status"]["State"]) == "running":
-        #                 i=i+1
-
-        print(i)
-
-        
 
         for r in response.json():
                 
                 if r.get("jail_finished_at"):
-
-                #a = dateparser.parse(r["created_at"]) #colocado no banco -> tempo de chegada do run no banco
-                #b = dateparser.parse(r["updated_at"]) #tempo da ultima atualização de qualquer lugar ->não vai ser usado nos calculos
-                # d = dataparser.parse(r[""]) # jail started_at -> inicio do processamento no jail (com download do banco)
                 
                 ########################################### Tempo de espera na fila ######################################################
 
@@ -90,48 +71,23 @@ class Calc(Resource):
                         ##########################################################################################################################          
                 ################################# Tempo de processamento do exercicio no jail  ###########################################
 
-                        #d = dateparser.parse(r["jail_work_started_at"]) # if r["jail_started_at"] is not 'null' else r["jail_started_at"].pop() # jail started_at -> inicio do processamento no jail (com download do banco)
                         if min_date is None or min_date > jail_work_started_at:
                                 min_date = jail_work_started_at  
-                        # d = dateparser.parse(r["jail_work_started_at"]) # jail started_at -> inicio do processamento no jail (com download do banco)
-                    #   e = dateparser.parse(r["jail_finished_at"]) #tempo final do processamento no jail onde ele terminou de trabalhar
+
                         if max_date is None or max_date < jail_finished_at:
                                 max_date = jail_finished_at
 
                         process_jail = jail_finished_at - jail_work_started_at #Tempo gasto no processamento do run no jail
-                        ##########################################################################################################################          
-
-                        # f = true started_at ----> sem download 
-                        # c = b - a
-                        #e=d
-
-                #------>>>>> tempo de espera do run na fila do jail c = created_at - jail_started_at                   
-                        #criar runs com loops infinitos -> aumentar o timelimit                
-
-                        #grafico com tempo na fila, grafico do tempo processamento, processamento com download finished_jail - start_jail, download "puro" work_started - started_jail
-
-                        #c = b - a #Tempo gasto no processamento do run
 
                         process_jail_download_list.append(process_jail_download.seconds) #tempo de processamento do jail com download
                         jail_ex_download_list.append(jail_ex_download.seconds) #tempo de download do exercicio no jail
 
-                        #millis = queue_wait_time.days * 24 * 60 * 60 * 1000
-                        #millis += queue_wait_time.seconds * 1000
-                        #millis += queue_wait_time.microseconds / 1000
-
-                        #queue_wait_time_list.append(millis) #Lista de tempos de espera na fila
                         queue_wait_time_list.append(queue_wait_time.seconds) #Lista de tempos de espera na fila
 
-                        #millis = c.days * 24 * 60 * 60 * 1000
-                        #millis += c.seconds * 1000
-                        #millis += c.microseconds / 1000
-
-                        #diffs_in_milliseconds.append(millis)
                         process_jail_list.append(process_jail.seconds)
 
                         media_list.append((np.mean(queue_wait_time_list)))
                         media_list_general.append(np.mean(media_list))
-                        #media_list_100v.append(np.mean(queue_wait_time_list[-100:]))
                         
                         
                         
@@ -140,13 +96,9 @@ class Calc(Resource):
 
 
 
-        #print("Numero total de amostras "+str(len(process_jail_list)))
-        print(i)
         c = max_date - min_date #[-10:]        
-        #alow = "2"
         foo = {
             "total":str(len(process_jail_list)),
-            "num_jails": str(i),
             "time_process":str(c),
             "list_twq": str(queue_wait_time_list),
             "list_tpd": str(process_jail_list),

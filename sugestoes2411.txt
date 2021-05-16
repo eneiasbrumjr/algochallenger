@@ -1,3 +1,0 @@
-separar graficos de processamento do jail com e sem download
-restartar jail antes de iniciar as correções
-mandar um numero menor de requisições par n nós

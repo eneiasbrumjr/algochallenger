@@ -62,15 +62,7 @@
 
 
          var layout_linetwq = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
             title: {
               text: 'Num da amostra',
@@ -94,15 +86,7 @@
         };
 
         var layout_linetwq_general = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
             title: {
               text: 'Num da amostra',
@@ -126,15 +110,7 @@
         };
 
         var layout_datalListTWQ = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
             
             title: {
@@ -158,15 +134,7 @@
           }
         };
         var layout_linetwq_100v = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
             range: [0, 100],
             
@@ -191,15 +159,7 @@
           }
         };
         var layout_dataListTPDWD = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
             
             title: {
@@ -223,15 +183,7 @@
           }
         };
         var layout_dataListTPD = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
 
             title: {
@@ -255,15 +207,7 @@
           }
         };
         var layout_dataListTD = {
-          // title: {
-          //   text:'Plot Title',
-          //   font: {
-          //     family: 'Courier New, monospace',
-          //     size: 24
-          //   },
-          //   xref: 'paper',
-          //   x: 0.05,
-          // },
+
           xaxis: {
             
             title: {
@@ -375,18 +319,11 @@
 
         setTimeout(() => {
           document.getElementById("error-message").style.display = "none";
-        }, 10000);
+        }, 15000);
       }
     });
   }
 
   fetchAll();
 
-  // setInterval(async () => {
-
-  // }, 5000);
-
-  //   // Parse JSON string into object
-
-  // }, 1000);
 })();
